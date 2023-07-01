@@ -1,7 +1,6 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from 'vuepress'
 import { docsearchPlugin } from '@vuepress/plugin-docsearch'
-import vuepressPluginAnchorRight from 'vuepress-plugin-anchor-right';
 
 export default defineUserConfig({
     port: 9000,
@@ -11,7 +10,6 @@ export default defineUserConfig({
         ['link', { rel: 'icon', href: '/images/logo.png' }]
     ],
     plugins: [
-        [vuepressPluginAnchorRight()],
         docsearchPlugin({
             rateLimit: 8,
             maxDepth: 10,
