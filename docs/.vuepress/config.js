@@ -5,6 +5,7 @@ export default defineUserConfig({
     port: 9000,
     title: '笔记',
     lang: 'zh-CN',
+    base: '/my-document/',
     head: [
         ['link', { rel: 'icon', href: '/images/logo.png' }]
     ],
