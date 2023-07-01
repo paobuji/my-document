@@ -1,0 +1,40 @@
+# 英文单词
+- `conduct`: 行为  
+- `product`: 产品
+- `variable`: n:变量 adj:可变的,多变的
+- `various` adj:各种各样的
+- `environment variable` 环境变量
+- `Event Loop` 事件循环
+- `drag and drop` 拖放
+- `resume` 恢复
+- `overview` 概述
+- `collapse` v:折叠 n:崩溃
+- `quit` 退出程序
+- `mortgage` 按揭
+- `pads`: 垫
+- `pipe`: 管道
+- `camp`: 露营
+- `campus`: 校园
+- `industry`: n:工业 行业
+- `ship`: n:船 v:运送
+- `leaf`: n:叶子
+- `amount` n:金额,数量,总额,大部分情况下指金额
+- `valid` adj:有效的
+- `validate` v:验证
+- `invalid` adj:无效的
+- `invalidate` v:使无效
+- `clear` v:清除
+- `handsome` adj:英俊的 帅气的 漂亮的 
+- `awesome`  adj:令人惊叹的 极好的  极好的 极好的
+- `Duplicated` adj:重复的
+- `prettier` adj:漂亮的
+- `syntax` n:语法
+- `gap` n:缺口 间隙 
+- `cell` n:单元格
+- `fatal` adj:致命的
+- `iterate` v:迭代
+- `integration` n:集成
+- `happy` adj:高兴的
+- `hoppy` n:爱好
+- `CLI` n:命令行
+- `GUI` n:图形界面

@@ -1,0 +1,33 @@
+# 目标1
+## 眼睛疲劳
+- `眼睛疼`就是睡眠时间少了
+- `眼睛疲劳`可能会伴随我`一辈子`哦,做好长期的准备吧.
+- `独居生活`也可能是一辈子的事.
+- `疲劳`也是常有的事嘛
+- `烦心事`不是有可能是一辈子的事,tmd就是一辈子的事.
+- `尿频`真的是个病啊
+- `小事`,做好小事才能做好大事.小事是很难做好的.
+- 要把`不是`这个口头禅给改了
+- 我就搞不懂了,为什么一直刷视频很难受,还停不下来呢?`那就停下来呗`
+- 趁着精神好的时候,多看点视频
+## 计算机网络
+- 学习计算机网络
+## 目标
+- ~~学习若依前后端分离框架,主要是前端~~
+- ~~@ConfigurationProperties(prefix = "ruoyi")的用法~~
+- ~~梳理前端解决动态路由的递归方案.~~
+- ~~深入测试一下vue3的proxy用法~~
+- ~~怎么更好的获取el-cascader的值?~~
+- ~~实现树状结构的数据的增删改查~~
+- ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
+- 封装springboot返回res,code,msg,data的工具类
+- **Mybatis-Plus**：一个流行的MyBatis增强工具，提供了一些树形结构的查询方法，如`selectTreeNodes`和`selectTreeNodesById`等。
+- 实现树状结构数据勾选功能
+- 也许我可以使用antdesign的vue2版本的后台管理系统
+- 好好学习mybatis-plus,mybatis-generator(最好能通过官方文档学习成功)
+- lambda表达式是什么?
+- vue3的`watchEffect`是什么? [watchEffect](https://cn.vuejs.org/guide/essentials/watchers.html#callback-flush-timing) [watchEffect](https://cn.vuejs.org/guide/essentials/watchers.html#watcheffect) [watchEffect](https://cn.vuejs.org/examples/#fetching-data)
+- 通过官方文档学会使用NodeJs
+- 找面试题
+- 学习redis
+- 怎么设置codeGPT的结果在新tab页打开

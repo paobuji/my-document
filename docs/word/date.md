@@ -1,0 +1,13 @@
+- 一月的英文单词 `January`
+- 二月的英文单词 `February`
+- 三月的英文单词 `March`
+- 四月的英文单词 `April`
+- 五月的英文单词 `May`
+- 六月的英文单词 `June`
+- 七月的英文单词 `July`
+- 八月的英文单词 `August`
+- 九月的英文单词 `September`
+- 十月的英文单词 `October`
+- 十一月的英文单词 `November`
+- 十二月的英文单词 `December`
+- 一月的缩写 `Jan`

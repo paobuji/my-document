@@ -1,0 +1,28 @@
+name: Deploy static content to Pages
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install Dependencies
+        run: npm install vuepress@next -D
+
+      - name: Build
+        run: npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with: 
+          ssh-key: ${{ secrets.SSH }} # GitHub token，用于访问仓库和部署
+          branch: gh-pages # 部署到 gh-pages 分支
+          clean: true # 清空 gh-pages 分支上的旧文件
+          folder: docs/.vuepress/dist # 部署 dist 文件夹
+          # dir: docs/.vuepress/dist # 指定要部署的目录
+      

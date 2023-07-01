@@ -1,0 +1,11 @@
+# 无聊时候的目标
+- `看文档的能力很重要的`
+- `妹的,无聊就刷B站`
+- 优化下部署vuexpress的流程[参考](https://www.bilibili.com/video/BV17G4y177YJ/?spm_id_from=333.337.search-card.all.click&vd_source=fa248929cbbce67cc8afaf2d6b210f14)
+- 或许我可以成本很低的实现这个目标
+- ~~[将二级标题部署在右边](https://www.cnblogs.com/dingshaohua/p/16618802.html)~~
+- ~~看vuepress的文档~~
+- 给我的网站部署到vercel上面去吧.
+- 给简历里面加上vuepress的部署
+- 重振旗鼓把网站部署流程完善.
+- 英语兔是什么吗?

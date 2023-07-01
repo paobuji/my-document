@@ -1,0 +1,8 @@
+node_modules
+.idea
+.temp
+.dist
+docs/.vuepress/dist
+docs/.vuepress/.cache
+package-lock.json
+yarn.lock

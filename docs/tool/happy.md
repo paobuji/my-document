@@ -1,0 +1,21 @@
+# 开心的事情
+- `要长久稳定的快乐,不要总想着看黄片,意思不大的`
+- `我知道是一直想着它`
+- `那就慢慢地去找别的事做`
+- `他妈的怎么那么影响心情呢?`
+- 有什么可以开心的呢?
+- 不长久的快乐意思不大
+- 看刘蓓的电影电视剧
+- 看范明的电视剧电影
+- [装台](https://tv.cctv.com/2023/06/17/VIDESnP6cn901T1dQ3OELqRH230617.shtml?srcfrom=baidualading&event2=bdtg_pc_hkafjzpq)
+- [甲方乙方](https://www.bilibili.com/bangumi/play/ep415542?theme=movie&spm_id_from=333.337.0.0)
+- [奔跑吧兄弟](https://www.iqiyi.com)
+- 周末下午去买烤鸭吃.
+- 学习是不是一种放松的方式呢?这是一个问题
+- 睡不着觉的时候可以听听书
+- QQ音乐电台频道
+
+# 电视剧
+- 山河明月(明朝历史)
+- 饥饿游戏
+- [大主宰(动漫)](https://www.iqiyi.com/v_1d74ab0t9ug.html?vfrm=pcw_home&vfrmblk=B&vfrmrst=fcs_0_t13)

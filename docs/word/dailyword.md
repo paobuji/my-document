@@ -1,0 +1,32 @@
+- `official workshop`: n:官方研讨会
+- `workshop`: n:研讨会
+- `thrilled`: adj:非常兴奋的
+- `innovation`: n:创新
+- `experience`: n:经历 经验
+- `experiment`: n:实验 v:实验
+- `concept`: n:概念
+- `pricy`: adj:昂贵的 价格高的
+- `private`: adj:私人的 私有的 n:士兵
+- `previous`: adj:以前的 先前的
+- `post`: n: 之后
+- `activate`: v:激活
+- `deactivate`: v:停用
+- `General` adj:一般的 普通的 常规的
+- `expose` v:暴露 揭露
+- `dispose` v:处理 处置 销毁
+- `conditional` adj:有条件的 有前提的
+- `universal` adj:普遍的 通用的
+- `struct` n:结构
+- `structure` n:结构 v:构造
+- `construct` v:建造 构造
+- `destructuring` n:解构
+- `destruct` v:破坏 毁坏
+- `manually` adv:手动地
+- `Graphics` n:图形
+- `interact` v:交互
+- `legacy` n: 遗留问题
+- `migrate` v:迁移
+- `markup` n:标记
+- `respect`: v:尊重 n:尊敬
+- `inspect`: v:检查 n:检查
+- `aspect`: n:方面
