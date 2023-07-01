@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Install Dependencies
-        run: npm install vuepress@next -D
+        run: npm install vuepress@next -D && npm install -D @vuepress/plugin-docsearch@next
 
       - name: Build
         run: npm run build
