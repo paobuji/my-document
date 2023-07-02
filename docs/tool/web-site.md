@@ -21,6 +21,4 @@
 - [神烦老狗](https://www.LaoGou717.com)
 - [牛马程序员](https://niuma.top/)
 - [英语兔](https://www.yingyutu.com/)
-
-- github网站
 - [各色网站](https://github.com/programthink/sites)

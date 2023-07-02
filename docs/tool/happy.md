@@ -3,8 +3,6 @@
 - `我知道是一直想着它`
 - `那就慢慢地去找别的事做`
 - `好好照照镜子,不能太影响心情啊,不然脸都僵了`
-- 有什么可以开心的呢?
-- 不长久的快乐意思不大
 - 看刘蓓的电影电视剧
 - 看范明的电视剧电影
 - [装台](https://tv.cctv.com/2023/06/17/VIDESnP6cn901T1dQ3OELqRH230617.shtml?srcfrom=baidualading&event2=bdtg_pc_hkafjzpq)
