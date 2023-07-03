@@ -33,6 +33,7 @@
 - `cell` n:单元格
 - `fatal` adj:致命的
 - `iterate` v:迭代
+- `interact` v:交互
 - `integration` n:集成
 - `happy` adj:高兴的
 - `hoppy` n:爱好

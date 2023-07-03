@@ -10,7 +10,8 @@
 - ~~尝试一下promise.all和promise.race的用法~~
 - ~~为什么在springboot中config文件夹下的application.yml的优先级比application.yml高~~
 - ~~使用增删改查实现菜单管理功能.~~
-- 完善手写弹窗组件
+- ~~完善手写弹窗组件~~
+- 使用react实现一个简单的增删改查功能
 - 简单部署一下后端的springboot项目+使用一下docker
 - 也许枚举是一个可以学习的东西
 - 去vueschool看看有没有什么好的课程

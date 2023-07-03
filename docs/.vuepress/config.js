@@ -46,6 +46,11 @@ export default defineUserConfig({
                 children: ['/front/scattered-notes']
             },
             {
+                text: 'react',
+                collapsible: true,
+                children: ['/react/react','/react/react-goal']
+            },
+            {
                 text: '后端',
                 collapsible: true,
                 children: ['/java/java', '/java/linux']
