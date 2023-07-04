@@ -5,3 +5,4 @@
 - ~~[将二级标题部署在右边](https://www.cnblogs.com/dingshaohua/p/16618802.html)~~
 - ~~给我的网站部署到vercel上面去吧.~~
 - ~~给简历里面加上vuepress的部署~~
+- 学习一下西施的连招
