@@ -6,6 +6,9 @@
 - 看刘蓓的电影电视剧
 - 看范明的电视剧电影
 - [装台](https://tv.cctv.com/2023/06/17/VIDESnP6cn901T1dQ3OELqRH230617.shtml?srcfrom=baidualading&event2=bdtg_pc_hkafjzpq)
+- [熟年](https://www.iqiyi.com/v_2a8lk171ams.html?vfm=2008_aldbd&fv=p_02_01)
+- [回家吃饭](https://tv.cctv.com/2023/07/03/VIDEyPKgHp7ciDvHsZLvDvVl230703.shtml?spm=C28340.PdNvWY0LYxCP.EZXfRXnNE2FP.40)
+- [回家吃饭总集](https://tv.cctv.com/lm/hjcf/videoset/?spm=C52448022284.P88430000411.0.0)
 - [甲方乙方](https://www.bilibili.com/bangumi/play/ep415542?theme=movie&spm_id_from=333.337.0.0)
 - 周末下午去买烤鸭吃.
 - 学习是不是一种放松的方式呢?这是一个问题
