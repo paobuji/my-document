@@ -17,7 +17,6 @@ export default defineUserConfig({
                 text: '英文单词', children: [
                     { text: '学习单词', link: '/word/word' },
                     { text: '日常单词', link: '/word/dailyword' },
-                    { text: '日期', link: '/word/date' },
                 ]
             },
             {
