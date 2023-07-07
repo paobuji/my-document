@@ -71,3 +71,5 @@ console.log(innerFunction()); // 输出 15
 - 这个:model="form"其实是可以不用定义的,把它定义成对象是为了更好地展示数据
 - 不过定义这个model可以使用from组件自带的验证功能,[ElForm] model is required for validate to work.
 
+## git强制推送
+- git push -f origin master
