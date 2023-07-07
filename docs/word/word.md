@@ -10,7 +10,6 @@
 - `overview` 概述
 - `collapse` v:折叠 n:崩溃
 - `quit` 退出程序
-- `mortgage` 按揭
 - `pads`: 垫
 - `pipe`: 管道
 - `camp`: 露营
@@ -39,3 +38,4 @@
 - `hoppy` n:爱好
 - `CLI` n:命令行
 - `GUI` n:图形界面
+- `vertical` adj:垂直的
