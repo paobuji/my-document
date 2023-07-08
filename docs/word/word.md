@@ -39,3 +39,4 @@
 - `CLI` n:命令行
 - `GUI` n:图形界面
 - `vertical` adj:垂直的
+- `tracking` n:跟踪
