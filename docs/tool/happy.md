@@ -14,7 +14,6 @@
 - 学习是不是一种放松的方式呢?这是一个问题
 - 听电台
 # 电视剧
-- 山河明月(明朝历史)
 - [低头不见抬头见(范明)](https://www.iqiyi.com/v_19rrdpfdqs.html)
 - [大明王朝](https://v.youku.com/v_show/id_XMjQ4NDkwMTAzMg==.html?firsttime=660)
 - 我的人间烟火
