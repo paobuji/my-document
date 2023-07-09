@@ -8,6 +8,5 @@
 - ~~学习一下西施的连招~~
 - ~~git的仓库分支已经存在为什么推不上去了呢?~~
 - ~~学习一下dayjs的subtract()方法~~
-- 学习一下米莱迪的连招
 - 给myadmin的系统配置优化一下,不然有点难用
-- 把系统配置单独拎出来吧
+- 找一下免费的react后台管理框架[ant-design-pro](https://pro.ant.design/zh-CN/docs/getting-started/)
