@@ -17,9 +17,8 @@
 - [低头不见抬头见(范明)](https://www.iqiyi.com/v_19rrdpfdqs.html)
 - [大明王朝](https://v.youku.com/v_show/id_XMjQ4NDkwMTAzMg==.html?firsttime=660)
 - 我的人间烟火
+- 士兵突击
 - 看宋丹丹的小品
-- 看撒贝宁访谈,哈哈
-- 去看看小海吧
 - 嗑瓜子看电视
 # 电影
 - 消失的她
