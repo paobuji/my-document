@@ -10,3 +10,4 @@
 - ~~学习一下dayjs的subtract()方法~~
 - 给myadmin的系统配置优化一下,不然有点难用
 - 找一下免费的react后台管理框架[ant-design-pro](https://pro.ant.design/zh-CN/docs/getting-started/)
+- 看一下dayjs的文档
