@@ -11,3 +11,4 @@
 - 学习一下webpack的配置
 - 给myadmin的系统配置优化一下,不然有点难用
 - 找一下免费的react后台管理框架[ant-design-pro](https://pro.ant.design/zh-CN/docs/getting-started/)
+- 学习一下打麻将的规则
