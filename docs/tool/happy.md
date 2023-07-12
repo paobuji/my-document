@@ -11,6 +11,7 @@
 - 学习是不是一种放松的方式呢?这是一个问题
 - 听电台
 - [游戏](https://www.msn.cn/zh-cn/play/arcade?ocid=winp2fp&cgfrom=cg_prong2_pivot)
+- `激励的东西还是有用的啊`
 # 电视剧
 - [低头不见抬头见(范明)](https://www.iqiyi.com/v_19rrdpfdqs.html)
 - [大明王朝](https://v.youku.com/v_show/id_XMjQ4NDkwMTAzMg==.html?firsttime=660)
