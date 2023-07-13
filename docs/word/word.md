@@ -40,3 +40,4 @@
 - `GUI` n:图形界面
 - `vertical` adj:垂直的
 - `tracking` n:跟踪
+- `persist` v:持久化

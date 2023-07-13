@@ -12,6 +12,7 @@ export default defineUserConfig({
     theme: defaultTheme({
         logo: '/images/logo.png',
         sidebarDepth: 1,
+        repo: 'paobuji/my-document',
         navbar: [
             {
                 text: '英文单词', children: [
@@ -26,7 +27,6 @@ export default defineUserConfig({
                     { text: '无聊时候的目标', link: '/needstudy/goal3' },
                 ]
             },
-            { text: '剪辑', link: '/tool/montage' }
         ],
         sidebar: [
             {
