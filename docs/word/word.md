@@ -37,3 +37,5 @@
 - `tracking` n:跟踪
 - `persist` v:持久化
 - `entry` n:入口
+- `square` n:正方形
+- `board` n:板

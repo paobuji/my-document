@@ -73,3 +73,6 @@ console.log(innerFunction()); // 输出 15
 
 ## git强制推送
 - git push -f origin master
+
+## vscode快捷键-快速移动到文件最底部
+- ctrl+end
