@@ -7,7 +7,6 @@
 - `Event Loop` 事件循环
 - `drag and drop` 拖放
 - `resume` 恢复
-- `overview` 概述
 - `collapse` v:折叠 n:崩溃
 - `quit` 退出程序
 - `pads`: 垫
@@ -19,13 +18,9 @@
 - `leaf`: n:叶子
 - `amount` n:金额,数量,总额,大部分情况下指金额
 - `valid` adj:有效的
-- `validate` v:验证
 - `invalid` adj:无效的
+- `validate` v:验证
 - `invalidate` v:使无效
-- `clear` v:清除
-- `handsome` adj:英俊的 帅气的 漂亮的 
-- `awesome`  adj:令人惊叹的 极好的  极好的 极好的
-- `Duplicated` adj:重复的
 - `prettier` adj:漂亮的
 - `syntax` n:语法
 - `gap` n:缺口 间隙 
@@ -41,3 +36,4 @@
 - `vertical` adj:垂直的
 - `tracking` n:跟踪
 - `persist` v:持久化
+- `entry` n:入口
