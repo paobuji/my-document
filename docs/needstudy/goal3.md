@@ -2,6 +2,7 @@
 - `看文档的能力很重要的`
 - `妹的,无聊就刷B站`
 - `其实可以听视频`
+- `任何事情尽最大努力去做是很重要的,因为那样就不会怪自己了`
 - ~~优化下部署vuexpress的流程[参考](https://www.bilibili.com/video/BV17G4y177YJ/?spm_id_from=333.337.search-card.all.click&vd_source=fa248929cbbce67cc8afaf2d6b210f14)~~
 - ~~[将二级标题部署在右边](https://www.cnblogs.com/dingshaohua/p/16618802.html)~~
 - ~~给我的网站部署到vercel上面去吧.~~
