@@ -1,6 +1,7 @@
 # 无聊时候的目标
 - `看文档的能力很重要的`
 - `妹的,无聊就刷B站`
+- `其实可以听视频`
 - ~~优化下部署vuexpress的流程[参考](https://www.bilibili.com/video/BV17G4y177YJ/?spm_id_from=333.337.search-card.all.click&vd_source=fa248929cbbce67cc8afaf2d6b210f14)~~
 - ~~[将二级标题部署在右边](https://www.cnblogs.com/dingshaohua/p/16618802.html)~~
 - ~~给我的网站部署到vercel上面去吧.~~
@@ -9,6 +10,8 @@
 - ~~git的仓库分支已经存在为什么推不上去了呢?~~
 - ~~学习一下dayjs的subtract()方法~~
 - ~~给myadmin的系统配置优化一下,不然有点难用~~
+- 把react官网的小游戏做掉.[react官方文档](https://react.docschina.org/)
+- [vuejs官网](https://cn.vuejs.org)
 - 学习一下webpack的配置[文档](https://www.webpackjs.com/concepts/)
 - 找一下免费的react后台管理框架[ant-design-pro](https://pro.ant.design/zh-CN/docs/getting-started/)
 - 学习一下打麻将的规则
