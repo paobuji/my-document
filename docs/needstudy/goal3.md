@@ -14,6 +14,7 @@
 - 把react官网的小游戏做掉.[react官方文档](https://react.docschina.org/)
 - 学习一下火舞的连招
 - 测试一下loadsh的防抖节流函数
+- 把D盘和E盘合并成一个盘
 - [vuejs官网](https://cn.vuejs.org)
 - 学习一下webpack的配置[文档](https://www.webpackjs.com/concepts/)
 - 找一下免费的react后台管理框架[ant-design-pro](https://pro.ant.design/zh-CN/docs/getting-started/)
