@@ -29,3 +29,5 @@ for (let key in obj) {
   console.log(key, obj[key]);
 }
 ```
+## squares.slice()
+- squares.slice() 是一个数组的方法，它返回一个新的数组，包含原始数组中的所有元素。如果没有提供参数，则新数组将包含与原数组相同的元素。
