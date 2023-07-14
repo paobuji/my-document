@@ -10,6 +10,7 @@
 - ~~git的仓库分支已经存在为什么推不上去了呢?~~
 - ~~学习一下dayjs的subtract()方法~~
 - ~~给myadmin的系统配置优化一下,不然有点难用~~
+- 给网站加上搜索功能吧
 - 把react官网的小游戏做掉.[react官方文档](https://react.docschina.org/)
 - [vuejs官网](https://cn.vuejs.org)
 - 学习一下webpack的配置[文档](https://www.webpackjs.com/concepts/)

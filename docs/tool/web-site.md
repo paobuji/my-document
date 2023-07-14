@@ -12,10 +12,7 @@
 
 
 # 博客
-- [神烦老狗](https://www.LaoGou717.com)
-- [牛马程序员](https://niuma.top/)
-- [英语兔](https://www.yingyutu.com/)
-- [各色网站](https://github.com/programthink/sites)
+- [有意思的博客](https://wiki.eryajf.net/)
 
 # 后台管理系统
 - [react后台管理系统umi](https://umijs.org/)
