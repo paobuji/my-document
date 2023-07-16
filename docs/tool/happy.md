@@ -26,7 +26,7 @@
 - 嗑瓜子看电视
 
 # 美食纪录片
-- [风味人间](https://www.freeok.vip/ok-so/-------------.html?wd=%E9%A3%8E%E5%91%B3%E4%BA%BA%E9%97%B4)
+- [风味人间](https://www.freeok.vip/vodplay/5659-1-1.html)
 - [回家吃饭](https://tv.cctv.com/2023/07/03/VIDEyPKgHp7ciDvHsZLvDvVl230703.shtml?spm=C28340.PdNvWY0LYxCP.EZXfRXnNE2FP.40)
 - [回家吃饭总集](https://tv.cctv.com/lm/hjcf/videoset/?spm=C52448022284.P88430000411.0.0)
 - 周末下午去买烤鸭吃.
