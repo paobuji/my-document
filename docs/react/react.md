@@ -1,6 +1,7 @@
 
 # react学习笔记
 
+
 ## 使用npx create-react-app创建react项目很慢的解決办法
 1. 使用淘宝镜像
 ```js
@@ -20,9 +21,11 @@ https://registry.npmjs.org/
 ```
 
 ## 杂记
-1. [react官方文档](https://react.docschina.org/)
-2. react组件是一个返回标签的函数
-3. react函数组件需要返回一个对象(卧槽,返回的不是一个对象,这么夸张的嘛,我眼睛咋了?)
+- useState是异步执行的,性能很好.
+- 当调用`useState()`需要用旧的state值来计算新的state值时,可以传递一个函数给`useState()`.这个函数接收旧的state值,并返回新的值.
+- [react官方文档](https://react.docschina.org/)
+- react组件是一个返回标签的函数
+- react函数组件需要返回一个对象(卧槽,返回的不是一个对象,这么夸张的嘛,我眼睛咋了?)
 ```js
 function MyButton() {
   return (
@@ -32,9 +35,7 @@ function MyButton() {
   );
 }
 ```
-
-
-4. 官网的一些实例代码
+- 官网的一些实例代码
 ```js
 const user = {
   name: 'Hedy Lamarr',
@@ -60,7 +61,7 @@ export default function Profile() {
 }
 ```
 
-5. react的事件
+- react的事件
 ```js
 import { useState } from 'react';
 
@@ -76,11 +77,9 @@ export default function MyApp() {
 
 function MyButton() {
   const [count, setCount] = useState(0);
-
   function handleClick() {
     setCount(count + 1);
   }
-
   return (
     <button onClick={handleClick}>
       Clicked {count} times
@@ -88,4 +87,3 @@ function MyButton() {
   );
 }
 ```
-> react中定义组件确实很方便
