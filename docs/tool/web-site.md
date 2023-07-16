@@ -8,7 +8,7 @@
 - [freeok](https://freeok.vip)
 # 壁纸
 - [壁纸网站](https://unsplash.com/)
-- [壁纸网站](https://pixabay.com/)
+- [pixabay](https://pixabay.com/)
 
 
 # 博客
