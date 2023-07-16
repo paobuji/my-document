@@ -26,6 +26,7 @@ https://registry.npmjs.org/
 - [react官方文档](https://react.docschina.org/)
 - react组件是一个返回标签的函数
 - react函数组件需要返回一个对象(卧槽,返回的不是一个对象,这么夸张的嘛,我眼睛咋了?)
+- useRef()返回一个可变的ref对象,其.current属性被初始化为传入的参数(initialValue).返回的ref对象在组件的整个生命周期内保持不变.
 ```js
 function MyButton() {
   return (
