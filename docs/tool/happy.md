@@ -16,7 +16,6 @@
 - [低头不见抬头见(范明)](https://www.iqiyi.com/v_19rrdpfdqs.html)
 - [大明王朝](https://v.youku.com/v_show/id_XMjQ4NDkwMTAzMg==.html?firsttime=660)
 - [消失的十一层](https://www.iqiyi.com/v_192m9bfojps.html)
-- 长安三万里
 - 我的人间烟火
 - 士兵突击
 - 水浒传
@@ -37,12 +36,8 @@
 - 风的季节
 - 容易受伤的女人
 
-# 电影
-- 消失的她
-- 看不见的客人
-- 画圣
-- 扫毒3
-- 看侦探电影
-
+# 要看的电影
+- 长安三万里
+- 热烈
 # 健身
 - 胯下击掌
