@@ -26,6 +26,7 @@ export default defineUserConfig({
                     { text: '目标2', link: '/needstudy/goal2' },
                     { text: '无聊时候的目标', link: '/needstudy/goal3' },
                     { text: '麻将', link: '/needstudy/majiang' },
+                    { text: '代码片段', link: '/snippet/scattered-snippet' },
                 ]
             },
         ],

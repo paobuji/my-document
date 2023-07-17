@@ -17,7 +17,6 @@
 - [大明王朝](https://v.youku.com/v_show/id_XMjQ4NDkwMTAzMg==.html?firsttime=660)
 - [消失的十一层](https://www.iqiyi.com/v_192m9bfojps.html)
 - 长安三万里
-- 超脱
 - 我的人间烟火
 - 士兵突击
 - 水浒传
@@ -36,6 +35,7 @@
 - 网易云音乐博客
 - [if you](https://music.163.com/#/song?id=410629770&market=baiduqk)
 > [MV](https://www.bilibili.com/video/BV1PW411w7MH/?spm_id_from=333.337.search-card.all.click&vd_source=fa248929cbbce67cc8afaf2d6b210f14)
+- 风的季节
 
 # 电影
 - 消失的她
