@@ -12,7 +12,6 @@
 
 
 # 博客
-- [有意思的博客](https://wiki.eryajf.net/)
 
 # 后台管理系统
 - [react后台管理系统umi](https://umijs.org/)
