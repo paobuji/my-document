@@ -12,12 +12,13 @@
 - ~~学习一下dayjs的subtract()方法~~
 - ~~给myadmin的系统配置优化一下,不然有点难用~~
 - ~~把D盘和E盘合并成一个盘~~
+- ~~测试一下lodash的防抖节流函数~~
 - 把react官网的小游戏做掉.[react官方文档](https://react.docschina.org/)
 - 学习一下火舞的连招
 - vue3的ref用法和react的ref用法是一样的吗?好像不是吧
-- 测试一下lodash的防抖节流函数
 - 找一下lodash是否有判断js数据类型的函数
 - [vuejs官网](https://cn.vuejs.org)
 - 学习一下webpack的配置[文档](https://www.webpackjs.com/concepts/)
 - 找一下免费的react后台管理框架[ant-design-pro](https://pro.ant.design/zh-CN/docs/getting-started/)
 - 学习一下打麻将的规则
+- 怎么设置codeGPT的结果在新tab页打开

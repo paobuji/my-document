@@ -6,8 +6,6 @@
 - ~~怎么更好的获取el-cascader的值?~~
 - ~~实现树状结构的数据的增删改查~~
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
-- 封装springboot返回res,code,msg,data的工具类
 - 通过官方文档学会使用NodeJs
-- 找面试题
+- 找面试题[山月的面试题网站](https://q.shanyue.tech/)
 - 学习redis
-- 怎么设置codeGPT的结果在新tab页打开
