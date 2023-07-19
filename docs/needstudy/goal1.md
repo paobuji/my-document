@@ -8,5 +8,4 @@
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
 - 通过官方文档学会使用NodeJs
 - 找面试题[山月的面试题网站](https://q.shanyue.tech/)
-- [有意思的博客](https://wiki.eryajf.net/)
 - 学习redis
