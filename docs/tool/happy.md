@@ -25,6 +25,7 @@
 - 嗑瓜子看电视
 
 # 美食纪录片
+- [深夜食堂](https://www.bilibili.com/bangumi/play/ss28612/?spm_id_from=333.999.0.0)
 - [风味人间](https://www.freeok.vip/vodplay/5659-1-1.html)
 - [回家吃饭](https://tv.cctv.com/2023/07/03/VIDEyPKgHp7ciDvHsZLvDvVl230703.shtml?spm=C28340.PdNvWY0LYxCP.EZXfRXnNE2FP.40)
 - [回家吃饭总集](https://tv.cctv.com/lm/hjcf/videoset/?spm=C52448022284.P88430000411.0.0)
