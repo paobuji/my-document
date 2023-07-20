@@ -32,7 +32,8 @@
 - 周末下午去买烤鸭吃.
 
 # 听歌
-- 网易云音乐博客
+- [网易云音乐](https://music.163.com/#)
+- 博客
 - [if you](https://music.163.com/#/song?id=410629770&market=baiduqk)
 - 风的季节
 - 容易受伤的女人
