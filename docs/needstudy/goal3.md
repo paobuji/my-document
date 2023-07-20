@@ -1,6 +1,5 @@
 # 无聊时候的目标
 - `看文档的能力很重要的`
-- `妹的,无聊就刷B站`
 - `其实可以听视频`
 - `任何事情尽最大努力去做是很重要的,因为那样就不会怪自己了`
 - ~~优化下部署vuexpress的流程[参考](https://www.bilibili.com/video/BV17G4y177YJ/?spm_id_from=333.337.search-card.all.click&vd_source=fa248929cbbce67cc8afaf2d6b210f14)~~
@@ -13,6 +12,7 @@
 - ~~给myadmin的系统配置优化一下,不然有点难用~~
 - ~~把D盘和E盘合并成一个盘~~
 - ~~测试一下lodash的防抖节流函数~~
+- 什么时候可以买一个switch加健身环套装呢?
 - 有机会研究一下vue3的源码,就从最简单的着手吧,看一下有没有好的资料
 - 把react官网的小游戏做掉.[react官方文档](https://react.docschina.org/)
 - 学习一下火舞的连招

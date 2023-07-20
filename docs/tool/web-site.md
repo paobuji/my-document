@@ -11,8 +11,6 @@
 - [pixabay](https://pixabay.com/)
 
 
-# 博客
-
 # 后台管理系统
 - [react后台管理系统umi](https://umijs.org/)
 - [后台管理系统框架pure-admin](https://github.com/pure-admin/vue-pure-admin)
