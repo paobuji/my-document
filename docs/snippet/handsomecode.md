@@ -6,6 +6,7 @@ Object.keys(this.dynamicValidateForm).forEach((key) => {
 });
 ```
 ## 使用ES6的结构和扩展运算符快捷操作对象
+- 第一种方式
 ```js
 // get the corpId from the search form
 let { selectedCorpId: corpId, ...rest } = this.searchForm;
@@ -14,6 +15,29 @@ let params = {
     corpId,
     ...rest
 };
+```
+- 第二种方式
+```js
+let { selectedCorpId, ...rest } = this.searchForm;
+// create the params object
+let params = {
+    corpId: selectedCorpId,
+    ...rest
+};
+```
+
+## 奇奇怪怪的代码
+> 这里是创建了一个新对象
+```js
+import { ref, computed, onMounted } from "vue";
+const obj = ref({
+  name: "chp",
+  age: 18,
+});
+onMounted(() => {
+  console.log({ ...obj.value, name: "修改阿斯蒂芬" });
+  console.log(obj.value);
+});
 ```
 ## forEach的坑
 1. forEach不支持return
