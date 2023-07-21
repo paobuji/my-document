@@ -12,19 +12,17 @@
 - ~~给myadmin的系统配置优化一下,不然有点难用~~
 - ~~把D盘和E盘合并成一个盘~~
 - ~~测试一下lodash的防抖节流函数~~
+- ~~了解一下Git Bash到底是个什么东西?~~
+- ~~TM的为什么面试一定要问BFC啊,沃日了.~~
 - 什么时候可以买一个switch加健身环套装呢?
 - 写一个websocket的例子
-- 了解一下Git Bash到底是个什么东西?
 - 有机会研究一下vue3的源码,就从最简单的着手吧,看一下有没有好的资料
 - 把react官网的小游戏做掉.[react官方文档](https://react.docschina.org/)
 - 学习一下火舞的连招
 - vue3的ref用法和react的ref用法是一样的吗?好像不是吧
-- 找一下lodash是否有判断js数据类型的函数
 - [vuejs官网](https://cn.vuejs.org)
 - 学习一下webpack的配置[文档](https://www.webpackjs.com/concepts/)
 - 找一下免费的react后台管理框架[ant-design-pro](https://pro.ant.design/zh-CN/docs/getting-started/)
 - 学习一下打麻将的规则
 - 怎么设置codeGPT的结果在新tab页打开
-- TM的为什么面试一定要问BFC啊,沃日了.
 - express文档框架有什么一问一答的好看的样式?
-- ![这是什么语法?](/images/语法.png)

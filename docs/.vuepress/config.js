@@ -70,7 +70,7 @@ export default defineUserConfig({
             {
                 text: '编程助手',
                 collapsible: true,
-                children: ['/tool/tool', '/tool/excellent', '/tool/happy', '/tool/web-site', '/tool/lifetime']
+                children: ['/tool/tool', '/tool/happy', '/tool/web-site', '/tool/lifetime']
             },
         ]
     })
