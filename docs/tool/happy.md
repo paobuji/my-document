@@ -34,10 +34,10 @@
 
 # 听歌
 - [网易云音乐](https://music.163.com/#)
-- 博客
+- 播客
 - [if you](https://music.163.com/#/song?id=410629770&market=baiduqk)
 - 风的季节
-- 容易受伤的女人
+- [容易受伤的女人](https://music.163.com/#/song?id=298880)
 - 我想有个家,一个不需要多大的地方
 
 # 要看的电影
