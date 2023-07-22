@@ -11,7 +11,8 @@
 - ~~测试一下lodash的防抖节流函数~~
 - ~~TM的为什么面试一定要问BFC啊,沃日了.~~
 - 什么时候可以买一个switch加健身环套装呢?
-- springboot怎么配置跨域请求呢?
+- springboot怎么配置全局的跨域请求呢?
+- 修改deploy.sh的分支名称为mian,避免混乱.
 - 写一个websocket的例子
 - 有机会研究一下vue3的源码,就从最简单的着手吧,看一下有没有好的资料
 - 把react官网的小游戏做掉.[react官方文档](https://react.docschina.org/)
