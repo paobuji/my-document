@@ -11,6 +11,7 @@
 - ~~完善手写弹窗组件~~
 - ~~研究一下pinia的持久化是什么意思?[文档](https://seb-l.github.io/pinia-plugin-persist/basic-usage.html)~~
 - 写一个移入的时候从下至上的动画效果
+- 深入了解下assign这个函数
 - 简单部署一下后端的springboot项目+使用一下docker
 - 也许枚举是一个可以学习的东西
 - 去vueschool看看有没有什么好的课程
