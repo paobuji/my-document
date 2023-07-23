@@ -21,12 +21,15 @@ export default defineUserConfig({
                 ]
             },
             {
+                text: '代码片段', children: [
+                    { text: '代码片段', link: '/snippet/handsomecode' },
+                ]
+            },
+            {
                 text: '目标', children: [
                     { text: '目标1', link: '/needstudy/goal1' },
                     { text: '目标2', link: '/needstudy/goal2' },
                     { text: '无聊时候的目标', link: '/needstudy/goal3' },
-                    { text: '麻将', link: '/needstudy/majiang' },
-                    { text: '代码片段', link: '/snippet/scattered-snippet' },
                     { text: '资源网站', link: '/needstudy/resources' },
                 ]
             },
@@ -70,7 +73,7 @@ export default defineUserConfig({
             {
                 text: '编程助手',
                 collapsible: true,
-                children: ['/tool/tool', '/tool/happy', '/tool/web-site', '/tool/lifetime']
+                children: ['/tool/tool', '/tool/happy', '/tool/web-site', '/tool/lifetime','/tool/majiang']
             },
         ]
     })
