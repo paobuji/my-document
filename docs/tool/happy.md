@@ -5,19 +5,21 @@
 - `好好照照镜子,不能太影响心情啊,不然脸都僵了`
 - 看刘蓓的电影电视剧
 - 看范明的电视剧电影
-- 看万茜的电视剧
+- 看`万茜`的电视剧
 - [装台](https://tv.cctv.com/2023/06/17/VIDESnP6cn901T1dQ3OELqRH230617.shtml?srcfrom=baidualading&event2=bdtg_pc_hkafjzpq)
 - [熟年](https://www.iqiyi.com/v_2a8lk171ams.html?vfm=2008_aldbd&fv=p_02_01)
 - [甲方乙方](https://www.bilibili.com/bangumi/play/ep415542?theme=movie&spm_id_from=333.337.0.0)
 - [游戏](https://www.msn.cn/zh-cn/play/arcade?ocid=winp2fp&cgfrom=cg_prong2_pivot)
 - 听电台
 - `激励的东西还是有用的啊`
+
+# 影视明星
+- 万茜
 # 电视剧
 - [低头不见抬头见(范明)](https://www.iqiyi.com/v_19rrdpfdqs.html)
 - [大明王朝](https://v.youku.com/v_show/id_XMjQ4NDkwMTAzMg==.html?firsttime=660)
 - [消失的十一层](https://www.iqiyi.com/v_192m9bfojps.html)
 - [猎场](https://www.iqiyi.com/v_19rrduuito.html?vfm=2008_aldbd&fv=p_02_01)
-- 我的人间烟火
 - 士兵突击
 - 水浒传
 - 三国演义
@@ -41,7 +43,11 @@
 
 # 要看的电影
 - [长安三万里](https://www.freeok.vip/vodplay/56081-1-1.html)
+- [速度与激情1](https://www.freeok.vip/vodplay/10097-1-1.html)
 - 热烈
 # 健身
 - 胯下击掌
 - 蹲马步
+
+# 魔术
+- 看魔术真的很爽哎
