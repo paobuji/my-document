@@ -7,5 +7,3 @@
 - ~~实现树状结构的数据的增删改查~~
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
 - 通过官方文档学会使用NodeJs
-- 找面试题[山月的面试题网站](https://q.shanyue.tech/)
-- 买一条三分裤
