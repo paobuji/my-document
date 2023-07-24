@@ -9,5 +9,8 @@
 - [vuejs官网](https://cn.vuejs.org)
 - [async是什么呢?](https://npm.devtool.tech/async)
 - [ant-design-pro](https://pro.ant.design/zh-CN/docs/getting-started/)
+- [animate.css](https://animate.style/)
+
+#壁纸
 - [壁纸网站](https://unsplash.com/)
 - [pixabay](https://pixabay.com/)
