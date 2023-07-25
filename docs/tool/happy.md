@@ -46,6 +46,7 @@
 - [长安三万里](https://www.freeok.vip/vodplay/56081-1-1.html)
 - [速度与激情1](https://www.freeok.vip/vodplay/10097-1-1.html)
 - 热烈
+- 发财日记
 # 健身
 - 胯下击掌
 - 蹲马步
