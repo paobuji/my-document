@@ -48,7 +48,7 @@ export default defineUserConfig({
             {
                 text: '前端',
                 collapsible: true,
-                children: ['/front/scattered-notes']
+                children: ['/front/scattered-notes','/tool/naming',]
             },
             {
                 text: 'react',
@@ -73,7 +73,7 @@ export default defineUserConfig({
             {
                 text: '编程助手',
                 collapsible: true,
-                children: ['/tool/tool', '/tool/happy', '/tool/web-site', '/tool/lifetime','/tool/majiang']
+                children: ['/tool/tool', '/tool/happy', '/tool/web-site', '/tool/lifetime',  '/tool/majiang']
             },
         ]
     })
