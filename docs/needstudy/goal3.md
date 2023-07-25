@@ -15,6 +15,7 @@
 - 了解一下观察者模式是什么?
 - springboot怎么配置全局的跨域请求呢?
 - 了解一下svg图标是什么?
+- svg-icon了解一下?
 - 写一个websocket的例子
 - 有机会研究一下vue3的源码,就从最简单的着手吧,看一下有没有好的资料
 - 把react官网的小游戏做掉.[react官方文档](https://react.docschina.org/)
