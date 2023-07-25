@@ -7,3 +7,4 @@
 - ~~实现树状结构的数据的增删改查~~
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
 - 通过官方文档学会使用NodeJs
+- 在vue3中怎么把vue组件的路径展示出来呢?
