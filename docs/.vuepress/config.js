@@ -1,5 +1,6 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from 'vuepress'
+import vuepressPluginAnchorRight from 'vuepress-plugin-anchor-right';
 
 export default defineUserConfig({
     port: 9000,
@@ -9,6 +10,7 @@ export default defineUserConfig({
     head: [
         ['link', { rel: 'icon', href: '/images/logo.png' }]
     ],
+    plugins: [vuepressPluginAnchorRight()],
     theme: defaultTheme({
         logo: '/images/logo.png',
         sidebarDepth: 1,
@@ -48,7 +50,7 @@ export default defineUserConfig({
             {
                 text: '前端',
                 collapsible: true,
-                children: ['/front/scattered-notes']
+                children: ['/front/scattered-notes','/tool/naming',]
             },
             {
                 text: 'react',
@@ -73,7 +75,7 @@ export default defineUserConfig({
             {
                 text: '编程助手',
                 collapsible: true,
-                children: ['/tool/tool', '/tool/happy', '/tool/web-site', '/tool/lifetime','/tool/majiang']
+                children: ['/tool/tool', '/tool/happy', '/tool/web-site', '/tool/lifetime',  '/tool/majiang']
             },
         ]
     })
