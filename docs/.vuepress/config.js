@@ -1,5 +1,6 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from 'vuepress'
+import vuepressPluginAnchorRight from 'vuepress-plugin-anchor-right';
 
 export default defineUserConfig({
     port: 9000,
@@ -9,6 +10,7 @@ export default defineUserConfig({
     head: [
         ['link', { rel: 'icon', href: '/images/logo.png' }]
     ],
+    plugins: [vuepressPluginAnchorRight()],
     theme: defaultTheme({
         logo: '/images/logo.png',
         sidebarDepth: 1,
