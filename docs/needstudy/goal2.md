@@ -8,7 +8,6 @@
 - ~~尝试一下promise.all和promise.race的用法~~
 - ~~为什么在springboot中config文件夹下的application.yml的优先级比application.yml高~~
 - ~~使用增删改查实现菜单管理功能.~~
-- ~~完善手写弹窗组件~~
 - ~~研究一下pinia的持久化是什么意思?[文档](https://seb-l.github.io/pinia-plugin-persist/basic-usage.html)~~
 - ~~写一个移入的时候从下至上的动画效果~~
 - 简单部署一下后端的springboot项目+使用一下docker
