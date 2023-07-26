@@ -75,7 +75,7 @@ export default defineUserConfig({
             {
                 text: '编程助手',
                 collapsible: true,
-                children: ['/tool/tool', '/tool/happy', '/tool/web-site', '/tool/lifetime',  '/tool/majiang']
+                children: ['/tool/tool', '/tool/happy', '/tool/web-site', '/tool/lifetime', '/tool/excellent', '/tool/majiang']
             },
         ]
     })
