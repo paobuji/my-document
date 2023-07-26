@@ -10,12 +10,11 @@
 - ~~git的仓库分支已经存在为什么推不上去了呢?~~
 - ~~测试一下lodash的防抖节流函数~~
 - ~~TM的为什么面试一定要问BFC啊,沃日了.~~
+- 看一下大神的面试现场关于输入url到页面渲染的过程是怎么回答的,哈哈
 - 什么时候可以买一个switch加健身环套装呢?
 - 再次复习下vue3的发布订阅模式(mitt)
 - springboot怎么配置全局的跨域请求呢?
-- 写一个websocket的例子
 - 有机会研究一下vue3的源码,就从最简单的着手吧,看一下有没有好的资料
 - 把react官网的小游戏做掉.[react官方文档](https://react.docschina.org/)
 - 学习一下webpack的配置[文档](https://www.webpackjs.com/concepts/)
 - express文档框架有什么一问一答的好看的样式?
-- 为什么element-plus的输入框看不到选中的单词呢?
