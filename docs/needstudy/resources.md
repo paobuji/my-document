@@ -16,3 +16,4 @@
 - [antfu](https://antfu.me/)
 - [别人写的很好的博客](https://wiki.eryajf.net/)
 - [Cali西爷干货殿](https://space.bilibili.com/8350251)
+- [tailwind](https://www.tailwindcss.cn/)
