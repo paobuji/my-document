@@ -13,6 +13,6 @@
 - [pixabay](https://pixabay.com/)
 
 # 博客
-- [大佬](https://antfu.me/)
+- [antfu](https://antfu.me/)
 - [别人写的很好的博客](https://wiki.eryajf.net/)
-- [有趣的资源](https://space.bilibili.com/8350251)
+- [Cali西爷干货殿](https://space.bilibili.com/8350251)
