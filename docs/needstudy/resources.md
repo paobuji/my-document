@@ -7,7 +7,7 @@
 - [30secondsofcode](https://www.30secondsofcode.org/)
 - [vuejs官网](https://cn.vuejs.org)
 - [ant-design-pro](https://pro.ant.design/zh-CN/docs/getting-started/)
-
+- [ai](http://ai.sb/)
 # 壁纸
 - [壁纸网站](https://unsplash.com/)
 - [pixabay](https://pixabay.com/)
