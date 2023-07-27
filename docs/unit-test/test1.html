@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>测试</h1>
+</body>
+
+<script>
+    const o = {
+        a: 1,
+        b: 2,
+        // __proto__ 设置了 [[Prototype]]。它在这里被指定为另一个对象字面量。
+    };
+
+    o.__proto__ = {
+        c: 3,
+        d: 4,
+    };
+
+    // o.[[Prototype]] 具有属性 b 和 c。
+    // o.[[Prototype]].[[Prototype]] 是 Object.prototype（我们会在下文解释其含义）。
+    // 最后，o.[[Prototype]].[[Prototype]].[[Prototype]] 是 null。
+    // 这是原型链的末尾，值为 null，
+    // 根据定义，其没有 [[Prototype]]。
+    // 因此，完整的原型链看起来像这样：
+    // { a: 1, b: 2 } ---> { b: 3, c: 4 } ---> Object.prototype ---> null
+    // console.log(o);
+    // console.log(o.a); // 1
+    // o 上有自有属性“a”吗？有，且其值为 1。
+
+    // console.log(o.b); // 2
+    // o 上有自有属性“b”吗？有，且其值为 2。
+    // 原型也有“b”属性，但其没有被访问。
+    // 这被称为属性遮蔽（Property Shadowing）
+
+    // console.log(o.c); // 4
+    // o 上有自有属性“c”吗？没有，检查其原型。
+    // o.[[Prototype]] 上有自有属性“c”吗？有，其值为 4。
+
+    // console.log(o.d); // undefined
+    // o 上有自有属性“d”吗？没有，检查其原型。
+    // o.[[Prototype]] 上有自有属性“d”吗？没有，检查其原型。
+    // o.[[Prototype]].[[Prototype]] 是 Object.prototype 且
+    // 其默认没有“d”属性，检查其原型。
+    // o.[[Prototype]].[[Prototype]].[[Prototype]] 为 null，停止搜索，
+    // 未找到该属性，返回 undefined。
+</script>
+
+<script>
+    
+</script>
+
+</html>

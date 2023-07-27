@@ -40,7 +40,7 @@ export default defineUserConfig({
             {
                 text: '写点正经八百的文章',
                 collapsible: true,
-                children: ['/article/async-await']
+                children: ['/article/async-await', '/article/prototype', '/article/datatype', '/article/unknowncode', '/article/interview']
             },
             {
                 text: '代码片段',
@@ -50,7 +50,7 @@ export default defineUserConfig({
             {
                 text: '前端',
                 collapsible: true,
-                children: ['/front/scattered-notes','/tool/naming',]
+                children: ['/front/scattered-notes', '/tool/naming',]
             },
             {
                 text: 'react',
