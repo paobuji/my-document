@@ -40,7 +40,7 @@ export default defineUserConfig({
             {
                 text: '写点正经八百的文章',
                 collapsible: true,
-                children: ['/article/async-await', '/article/prototype', '/article/datatype', '/article/unknowncode', '/article/interview']
+                children: ['/article/async-await', '/article/prototype', '/article/datatype', '/article/unknowncode', '/article/interview', '/article/array']
             },
             {
                 text: '代码片段',
