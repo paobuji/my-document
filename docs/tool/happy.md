@@ -52,6 +52,7 @@
 - [长安三万里](https://www.freeok.vip/vodplay/56081-1-1.html)
 - [速度与激情1](https://www.freeok.vip/vodplay/10097-1-1.html)
 - [速度与激情3](https://www.freeok.vip/vodplay/14868-1-1.html#slide{1})
+- 巧奔妙逃
 - 热烈
 - 发财日记
 # 健身
