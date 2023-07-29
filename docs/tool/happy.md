@@ -12,6 +12,7 @@
 - [游戏](https://www.msn.cn/zh-cn/play/arcade?ocid=winp2fp&cgfrom=cg_prong2_pivot)
 - 听电台
 - `激励的东西还是有用的啊`
+- 坐在沙发上用椅子看平板
 
 # 影视明星
 - 万茜
