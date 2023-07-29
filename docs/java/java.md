@@ -36,6 +36,8 @@ for(Object item : arrayList){
 }
 ```
 ## nginx
+- 查看nginx版本
+> nginx -v
 - 启动nginx服务
 > start nginx
 - 重启nginx服务
