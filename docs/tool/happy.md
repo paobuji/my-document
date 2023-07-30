@@ -56,6 +56,11 @@
 - 巧奔妙逃
 - 热烈
 - 发财日记
+
+# 电影网站
+- [朴樱影视](https://www.pyys.art/)
+- [freeok](https://freeok.vip)
+
 # 健身
 - 胯下击掌
 - 蹲马步
