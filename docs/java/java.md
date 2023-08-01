@@ -89,3 +89,6 @@ steps: [
   { name: Deploy to GitHub Pages, id: deployment, uses: actions/deploy-pages@v2 }
 ]
 ```
+
+## 杀死nginx进程
+- `taskkill /f /t /im nginx.exe`
