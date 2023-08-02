@@ -30,7 +30,8 @@ export default defineUserConfig({
         children: [
           { text: "目标1", link: "/needstudy/goal1" },
           { text: "目标2", link: "/needstudy/goal2" },
-          { text: "无聊时候的目标", link: "/needstudy/goal3" },
+          { text: "无聊时候的目标3", link: "/needstudy/goal3" },
+          { text: "目标4", link: "/needstudy/goal4" },
           { text: "资源网站", link: "/needstudy/resources" },
         ],
       },
