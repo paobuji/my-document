@@ -14,6 +14,7 @@
 - 找一个好用的表单验证的库[表单](https://vee-validate.logaretm.com/v4/guide/overview/)
 - 找一下有没有什么好一点的库用于校验表单的
 - 做一个bilibili头像直播的效果
+- A级车B级车C级车的区别是什么?
 - 使用nginx部署静态网站
 - 苹果教育打折是什么?怎么买?
 - 试一试typora是不是可以用来写博客?
