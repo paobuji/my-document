@@ -54,6 +54,7 @@
 - [速度与激情1](https://www.freeok.vip/vodplay/10097-1-1.html)
 - [速度与激情3](https://www.freeok.vip/vodplay/14868-1-1.html#slide{1})
 - 热烈
+- 三千日元的使用方法
 
 # 电影网站
 - [朴樱影视](https://www.pyys.art/)

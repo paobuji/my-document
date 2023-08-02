@@ -91,7 +91,7 @@ export default defineUserConfig({
           "/tool/happy",
           "/tool/web-site",
           "/tool/lifetime",
-          "/tool/excellent",
+          "/tool/sentence",
           "/tool/majiang",
         ],
       },
