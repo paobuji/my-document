@@ -1,6 +1,4 @@
 # 英文单词
-- `conduct`: 行为  
-- `product`: 产品
 - `variable`: n:变量 adj:可变的,多变的
 - `various` adj:各种各样的
 - `environment variable` 环境变量
@@ -39,3 +37,4 @@
 - `entry` n:入口
 - `square` n:正方形
 - `board` n:板
+- `protocol port` 协议端口
