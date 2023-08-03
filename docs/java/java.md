@@ -2,6 +2,9 @@
 
 ## jdk
 jdk直接解压就可以使用,不需要安装,注意的是配置环境变量的时候需要配置到bin那一层.
+
+## mysql社区版下载
+- [mysql社区版下载](https://dev.mysql.com/downloads/mysql/)
 ## 强制类型转换
 ```java
 try
