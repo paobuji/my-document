@@ -6,10 +6,10 @@
 - 看刘蓓的电影电视剧
 - 看范明的电视剧电影
 - 看`万茜`的电视剧
+- 金太郎的幸福生活
 - [装台](https://tv.cctv.com/2023/06/17/VIDESnP6cn901T1dQ3OELqRH230617.shtml?srcfrom=baidualading&event2=bdtg_pc_hkafjzpq)
 - [熟年](https://www.iqiyi.com/v_2a8lk171ams.html?vfm=2008_aldbd&fv=p_02_01)
 - [甲方乙方](https://www.bilibili.com/bangumi/play/ep415542?theme=movie&spm_id_from=333.337.0.0)
-- [游戏](https://www.msn.cn/zh-cn/play/arcade?ocid=winp2fp&cgfrom=cg_prong2_pivot)
 - 听电台
 - `激励的东西还是有用的啊`
 - 坐在沙发上用椅子看平板
@@ -22,10 +22,7 @@
 - [百家讲坛](https://tv.cctv.com/lm/bjjt/)
 - [低头不见抬头见(范明)](https://www.iqiyi.com/v_19rrdpfdqs.html)
 - [大明王朝](https://v.youku.com/v_show/id_XMjQ4NDkwMTAzMg==.html?firsttime=660)
-- [消失的十一层](https://www.iqiyi.com/v_192m9bfojps.html)
 - [猎场](https://www.iqiyi.com/v_19rrduuito.html?vfm=2008_aldbd&fv=p_02_01)
-- [东京独身男子](https://www.bilibili.com/bangumi/media/md28227955)
-- [东京大饭店](https://www.bilibili.com/bangumi/play/ss32624?spm_id_from=333.337.0.0)
 - 神话
 - 士兵突击
 - 水浒传
