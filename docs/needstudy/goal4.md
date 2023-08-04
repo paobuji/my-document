@@ -3,3 +3,4 @@
 - [bilibili视频](【第七节 异步函数与promise匹配器-哔哩哔哩】 https://b23.tv/gImkrOu)
 - pnpm是什么?
 - rewrite: (path) => path.replace(/^\/api/, ''), 我好像懂了这段代码是什么意思了
+- [divriots](https://divriots.com/)
