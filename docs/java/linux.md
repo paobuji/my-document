@@ -1,3 +1,4 @@
+
 # linux学习笔记
 - `ls /` 查看根目录下的文件
 - `pwd` 查看当前工作目录
@@ -13,6 +14,8 @@
 - `tail -f test.txt`  查看文件后10行,并且实时更新
 - `ll` === `ls -l` 查看文件详细信息
 - `getent` 获取系统信息
+## 服务器学习
+- `netstat -ano | find “5173”` 查看端口号是否被占用,这个也可以看出来启动的IP地址是ipv4还是ipv6
 ## docker
 ![示例图片](/images/docker-install.png)
 ```js
