@@ -30,6 +30,10 @@
 - 看宋丹丹的小品
 - 嗑瓜子看电视
 
+# 综艺
+- [大叔小馆](https://www.ixigua.com/6688541349198692878?utm_source=baidu_lvideo)
+- 岛屿书屋
+
 # 美食纪录片
 - [深夜食堂](https://www.bilibili.com/bangumi/play/ss28612/?spm_id_from=333.999.0.0)
 - [风味人间](https://www.freeok.vip/vodplay/5659-1-1.html)
