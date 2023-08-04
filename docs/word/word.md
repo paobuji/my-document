@@ -38,3 +38,5 @@
 - `square` n:正方形
 - `board` n:板
 - `protocol port` 协议端口
+- `observe` v:观察
+- `deserve` v:应得 该得 值得

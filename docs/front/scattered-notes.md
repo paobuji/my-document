@@ -76,3 +76,6 @@ console.log(innerFunction()); // 输出 15
 
 ## vscode快捷键-快速移动到文件最底部
 - ctrl+end
+
+## 使用vite搭建项目
+- npm create vite@latest
