@@ -1,8 +1,8 @@
 # 开心的事情
-- `要长久稳定的快乐,不要总想着看黄片,意思不大的`
 - `我知道是一直想着它`
 - `那就慢慢地去找别的事做`
 - `好好照照镜子,不能太影响心情啊,不然脸都僵了`
+- 人的精力是有限的啊,干不了就是干不了
 - 看刘蓓的电影电视剧
 - 看范明的电视剧电影
 - 看`万茜`的电视剧
@@ -19,6 +19,7 @@
 - 胡歌
 - 乔杉
 # 电视剧
+- [百家讲坛](https://tv.cctv.com/lm/bjjt/)
 - [低头不见抬头见(范明)](https://www.iqiyi.com/v_19rrdpfdqs.html)
 - [大明王朝](https://v.youku.com/v_show/id_XMjQ4NDkwMTAzMg==.html?firsttime=660)
 - [消失的十一层](https://www.iqiyi.com/v_192m9bfojps.html)
