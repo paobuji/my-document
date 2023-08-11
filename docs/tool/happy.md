@@ -16,7 +16,6 @@
 
 # 读书
 - 鲁迅的饭局
-- 去b站看下电动车的测评
 
 # 美食
 - 每次看财经频道都会有一种以后在自己房子里做饭的想法
@@ -49,6 +48,7 @@
 - [回家吃饭](https://tv.cctv.com/2023/07/03/VIDEyPKgHp7ciDvHsZLvDvVl230703.shtml?spm=C28340.PdNvWY0LYxCP.EZXfRXnNE2FP.40)
 - [回家吃饭总集](https://tv.cctv.com/lm/hjcf/videoset/?spm=C52448022284.P88430000411.0.0)
 - 周末下午去买烤鸭吃.
+- 喝酒去
 
 # 游戏
 - 练习一下马超
@@ -71,5 +71,6 @@
 - [freeok](https://freeok.vip)
 
 # 健身
-- 胯下击掌(700)
+- 胯下击掌(500)
+
 
