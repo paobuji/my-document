@@ -80,11 +80,6 @@ export default defineUserConfig({
         children: ["/nodejs/nodejs"],
       },
       {
-        text: "HTTP协议",
-        collapsible: true,
-        children: ["/httpprotocol/http"],
-      },
-      {
         text: "编程助手",
         collapsible: true,
         children: [
@@ -93,7 +88,6 @@ export default defineUserConfig({
           "/tool/web-site",
           "/tool/lifetime",
           "/tool/sentence",
-          "/tool/majiang",
         ],
       },
     ],
