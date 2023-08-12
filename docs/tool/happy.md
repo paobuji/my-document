@@ -36,6 +36,9 @@
 - 嗑瓜子看电视
 
 # 综艺
+- [奇葩说](https://www.iqiyi.com/v_sxx1hrk62c.html)
+
+# 综艺
 - [大叔小馆](https://www.ixigua.com/6688541349198692878?utm_source=baidu_lvideo)
 - 我在岛屿读书
 
