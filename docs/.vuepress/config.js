@@ -85,7 +85,6 @@ export default defineUserConfig({
         children: [
           "/tool/tool",
           "/tool/happy",
-          "/tool/web-site",
           "/tool/lifetime",
           "/tool/sentence",
         ],

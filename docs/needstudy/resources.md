@@ -2,7 +2,6 @@
 - [最流行的 1000 个库](https://npm.devtool.tech/)
 - [美丽搜索](https://meilisearch.com/docs)
 - [png转ico](https://www.aconvert.com/cn/icon/png-to-ico/)
-- [山月的面试题网站](https://q.shanyue.tech/)
 - [30secondsofcode](https://www.30secondsofcode.org/)
 - [vuejs官网](https://cn.vuejs.org)
 - [ai](http://ai.sb/)
@@ -10,6 +9,9 @@
 # 壁纸
 - [壁纸网站](https://unsplash.com/)
 - [pixabay](https://pixabay.com/)
+
+# 面试题
+- [山月的面试题网站](https://q.shanyue.tech/)
 
 # 工具
 - notion
@@ -22,3 +24,13 @@
 
 # vite
 - [vite打包配置文档](https://cn.vitejs.dev/config/build-options.html)
+
+# 有意思的网站
+- [别人的github网站](https://github.com/FightingDesign/awesome)
+- [All elements made with CSS and HTML](https://uiverse.io/)
+- [站点部署vercel](https://vercel.com/)
+
+
+# 后台管理系统
+- [react后台管理系统umi](https://umijs.org/)
+- [后台管理系统框架pure-admin](https://github.com/pure-admin/vue-pure-admin)
