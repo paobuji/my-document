@@ -6,6 +6,7 @@
 - 看刘蓓的电影电视剧
 - 看范明的电视剧电影
 - 看`万茜`的电视剧
+- [深夜食堂](https://www.bilibili.com/bangumi/play/ss28611?spm_id_from=333.337.0.0)
 - [金太郎的幸福生活](https://www.ixigua.com/search/%E9%87%91%E5%A4%AA%E7%8B%BC%E7%9A%84%E5%B9%B8%E7%A6%8F%E7%94%9F%E6%B4%BB/?logTag=6d61710302328edc481f&tab_name=home&fss=sug)
 - [装台](https://tv.cctv.com/2023/06/17/VIDESnP6cn901T1dQ3OELqRH230617.shtml?srcfrom=baidualading&event2=bdtg_pc_hkafjzpq)
 - [熟年](https://www.iqiyi.com/v_2a8lk171ams.html?vfm=2008_aldbd&fv=p_02_01)
@@ -13,13 +14,10 @@
 - 听电台
 - `激励的东西还是有用的啊`
 - 坐在沙发上用椅子看平板
+- 坐在沙发上用椅子直接看手机就行了,看平板费事
 
-# 读书
-- 鲁迅的饭局
-- 去b站看下电动车的测评
-
-# 美食
-- 每次看财经频道都会有一种以后在自己房子里做饭的想法
+# 学习
+- 每天学习半小时
 
 # 影视明星
 - 万茜
@@ -40,6 +38,9 @@
 - 嗑瓜子看电视
 
 # 综艺
+- [奇葩说](https://www.iqiyi.com/v_sxx1hrk62c.html)
+
+# 综艺
 - [大叔小馆](https://www.ixigua.com/6688541349198692878?utm_source=baidu_lvideo)
 - 我在岛屿读书
 
@@ -49,6 +50,7 @@
 - [回家吃饭](https://tv.cctv.com/2023/07/03/VIDEyPKgHp7ciDvHsZLvDvVl230703.shtml?spm=C28340.PdNvWY0LYxCP.EZXfRXnNE2FP.40)
 - [回家吃饭总集](https://tv.cctv.com/lm/hjcf/videoset/?spm=C52448022284.P88430000411.0.0)
 - 周末下午去买烤鸭吃.
+- 喝酒去
 
 # 游戏
 - 练习一下马超
@@ -63,7 +65,7 @@
 
 # 要看的电影
 - 热烈
-- 活着
+- 孤注一掷
 - 三千日元的使用方法
 
 # 电影网站
@@ -71,5 +73,6 @@
 - [freeok](https://freeok.vip)
 
 # 健身
-- 胯下击掌(700)
+- 胯下击掌(500)
+
 
