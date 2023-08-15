@@ -7,4 +7,4 @@
 - ~~[学习一下git回滚](https://deepinout.com/git/git-questions/463_git_rolling_back_in_git.html)~~
 - sourcemap这个是什么文件呢?
 - vuepress框架有折叠的样式吗?
-- 给myadmin首屏加载加个loading
+- ~~给myadmin首屏加载加个loading~~
