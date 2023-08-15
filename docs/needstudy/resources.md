@@ -4,8 +4,6 @@
 - [png转ico](https://www.aconvert.com/cn/icon/png-to-ico/)
 - [30secondsofcode](https://www.30secondsofcode.org/)
 - [vuejs官网](https://cn.vuejs.org)
-- [ai](http://ai.sb/)
-- [github@binjie.site](https://github.com/binjie09/chatgpt-web)
 # 壁纸
 - [壁纸网站](https://unsplash.com/)
 - [pixabay](https://pixabay.com/)
@@ -34,3 +32,10 @@
 # 后台管理系统
 - [react后台管理系统umi](https://umijs.org/)
 - [后台管理系统框架pure-admin](https://github.com/pure-admin/vue-pure-admin)
+
+# 框架
+- [页面引导库](https://driverjs.com/)
+
+# GPT
+- [ai](http://ai.sb/)
+- [github@binjie.site](https://github.com/binjie09/chatgpt-web)
