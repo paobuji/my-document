@@ -44,8 +44,6 @@ export default defineUserConfig({
         children: [
           "/article/interview",
           "/article/async-await",
-          "/article/prototype",
-          "/article/datatype",
           "/article/unknowncode",
           "/article/git",
         ],
