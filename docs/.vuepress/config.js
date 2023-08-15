@@ -47,7 +47,7 @@ export default defineUserConfig({
           "/article/prototype",
           "/article/datatype",
           "/article/unknowncode",
-          "/article/array",
+          "/article/git",
         ],
       },
       {
@@ -63,7 +63,7 @@ export default defineUserConfig({
       {
         text: "前端",
         collapsible: true,
-        children: ["/front/scattered-notes", "/tool/naming"],
+        children: ["/front/scattered-notes", "/front/naming", "/front/array"],
       },
       {
         text: "react",
