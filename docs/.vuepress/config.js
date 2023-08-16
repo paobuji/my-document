@@ -15,6 +15,10 @@ export default defineUserConfig({
     repo: "paobuji/my-document",
     navbar: [
       {
+        text: "学习笔记",
+        link: "/front/array",
+      },
+      {
         text: "英文单词",
         children: [
           { text: "单词1", link: "/word/word1" },
@@ -24,7 +28,7 @@ export default defineUserConfig({
       },
       {
         text: "代码片段",
-        children: [{ text: "代码片段", link: "/snippet/handsomecode" }],
+        link: "/snippet/handsomecode",
       },
       {
         text: "目标",
@@ -37,57 +41,13 @@ export default defineUserConfig({
         ],
       },
     ],
-    sidebar: [
-      {
-        text: "写点正经八百的文章",
-        collapsible: true,
-        children: [
-          "/article/interview",
-          "/article/async-await",
-          "/article/unknowncode",
-          "/article/git",
-        ],
-      },
-      {
-        text: "代码片段",
-        collapsible: true,
-        children: [
-          "/snippet/element",
-          "/snippet/echarts",
-          "/snippet/handsomecode",
-          "/snippet/scattered-snippet",
-        ],
-      },
-      {
-        text: "前端",
-        collapsible: true,
-        children: ["/front/scattered-notes", "/front/naming", "/front/array"],
-      },
-      {
-        text: "react",
-        collapsible: true,
-        children: ["/react/react", "/react/react-goal"],
-      },
-      {
-        text: "后端",
-        collapsible: true,
-        children: ["/java/java", "/java/linux"],
-      },
-      {
-        text: "NodeJS",
-        collapsible: true,
-        children: ["/nodejs/nodejs"],
-      },
-      {
-        text: "编程助手",
-        collapsible: true,
-        children: [
-          "/tool/tool",
-          "/tool/happy",
-          "/tool/lifetime",
-          "/tool/sentence",
-        ],
-      },
-    ],
+    sidebar: {
+      "/front/": [
+        {
+          text: "前端",
+          children: ["/front/array", "/front/scattered-notes", "/front/naming"],
+        },
+      ],
+    },
   }),
 });
