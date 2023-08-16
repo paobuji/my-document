@@ -14,6 +14,7 @@ export default defineUserConfig({
     sidebarDepth: 1,
     repo: "paobuji/my-document",
     editLink: false,
+    lastUpdated: false,
     navbar: [
       {
         text: "学习笔记",
