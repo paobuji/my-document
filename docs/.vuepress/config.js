@@ -8,12 +8,24 @@ export default defineUserConfig({
   lang: "zh-CN",
   base: "/my-document/",
   head: [["link", { rel: "icon", href: "/images/logo.png" }]],
-  plugins: [vuepressPluginAnchorRight()],
-  theme: defaultTheme({ 
+  plugins: [],
+  theme: defaultTheme({
     logo: "/images/logo.png",
     sidebarDepth: 1,
     repo: "paobuji/my-document",
+    editLink: false,
     navbar: [
+      {
+        text: "学习笔记",
+        children: [
+          { text: "前端", link: "/front/array" },
+          { text: "java", link: "/java/java" },
+          { text: "写点可能用的上的文章", link: "/article/async-await" },
+          { text: "代码片段", link: "/snippet/element" },
+          { text: "react", link: "/react/react" },
+          { text: "编程助手", link: "/tool/tool" },
+        ],
+      },
       {
         text: "英文单词",
         children: [
@@ -24,7 +36,7 @@ export default defineUserConfig({
       },
       {
         text: "代码片段",
-        children: [{ text: "代码片段", link: "/snippet/handsomecode" }],
+        link: "/snippet/handsomecode",
       },
       {
         text: "目标",
@@ -37,57 +49,58 @@ export default defineUserConfig({
         ],
       },
     ],
-    sidebar: [
-      {
-        text: "写点正经八百的文章",
-        collapsible: true,
-        children: [
-          "/article/interview",
-          "/article/async-await",
-          "/article/unknowncode",
-          "/article/git",
-        ],
-      },
-      {
-        text: "代码片段",
-        collapsible: true,
-        children: [
-          "/snippet/element",
-          "/snippet/echarts",
-          "/snippet/handsomecode",
-          "/snippet/scattered-snippet",
-        ],
-      },
-      {
-        text: "前端",
-        collapsible: true,
-        children: ["/front/scattered-notes", "/front/naming", "/front/array"],
-      },
-      {
-        text: "react",
-        collapsible: true,
-        children: ["/react/react", "/react/react-goal"],
-      },
-      {
-        text: "后端",
-        collapsible: true,
-        children: ["/java/java", "/java/linux"],
-      },
-      {
-        text: "NodeJS",
-        collapsible: true,
-        children: ["/nodejs/nodejs"],
-      },
-      {
-        text: "编程助手",
-        collapsible: true,
-        children: [
-          "/tool/tool",
-          "/tool/happy",
-          "/tool/lifetime",
-          "/tool/sentence",
-        ],
-      },
-    ],
+    sidebar: {
+      "/front/": [
+        {
+          text: "前端",
+          children: ["/front/array", "/front/scattered-notes", "/front/naming"],
+        },
+      ],
+      "/java/": [
+        {
+          text: "后端",
+          children: ["/java/java", "/java/linux"],
+        },
+      ],
+      "/article/": [
+        {
+          text: "写点正经八百的文章",
+          children: [
+            "/article/interview",
+            "/article/async-await",
+            "/article/unknowncode",
+            "/article/git",
+          ],
+        },
+      ],
+      "/snippet": [
+        {
+          text: "代码片段",
+          children: [
+            "/snippet/element",
+            "/snippet/echarts",
+            "/snippet/handsomecode",
+            "/snippet/scattered-snippet",
+          ],
+        },
+      ],
+      "/react/": [
+        {
+          text: "react",
+          children: ["/react/react", "/react/react-goal"],
+        },
+      ],
+      "/tool/": [
+        {
+          text: "编程助手",
+          children: [
+            "/tool/tool",
+            "/tool/happy",
+            "/tool/lifetime",
+            "/tool/sentence",
+          ],
+        },
+      ],
+    },
   }),
 });
