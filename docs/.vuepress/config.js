@@ -9,7 +9,7 @@ export default defineUserConfig({
   base: "/my-document/",
   head: [["link", { rel: "icon", href: "/images/logo.png" }]],
   plugins: [vuepressPluginAnchorRight()],
-  theme: defaultTheme({
+  theme: defaultTheme({ 
     logo: "/images/logo.png",
     sidebarDepth: 1,
     repo: "paobuji/my-document",
