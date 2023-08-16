@@ -23,7 +23,6 @@ export default defineUserConfig({
           { text: "写点可能用的上的文章", link: "/article/async-await" },
           { text: "代码片段", link: "/snippet/element" },
           { text: "react", link: "/react/react" },
-          { text: "编程助手", link: "/tool/tool" },
         ],
       },
       {
@@ -37,6 +36,10 @@ export default defineUserConfig({
       {
         text: "代码片段",
         link: "/snippet/handsomecode",
+      },
+      {
+        text: "编程助手",
+        link: "/tool/tool",
       },
       {
         text: "目标",
