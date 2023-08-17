@@ -102,6 +102,7 @@ export default defineUserConfig({
             "/tool/happy",
             "/tool/lifetime",
             "/tool/sentence",
+            "/tool/music",
           ],
         },
       ],
