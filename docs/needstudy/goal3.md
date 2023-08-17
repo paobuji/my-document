@@ -11,6 +11,7 @@
 - ~~TM的为什么面试一定要问BFC啊,沃日了.~~
 - 看一下大神的面试现场关于输入url到页面渲染的过程是怎么回答的,哈哈
 - 找一个好用的表单验证的库[表单](http://validatejs.org/)
+- [validator](https://github.com/validatorjs/validator.js)
 - 找一下有没有什么好一点的库用于校验表单的
 - 再次复习一下原型链吧(有家公司就问我了)
 - Array.from()是怎么用的?
