@@ -3,4 +3,5 @@
 - rewrite: (path) => path.replace(/^\/api/, ''), 我好像懂了这段代码是什么意思了
 - ~~[学习一下git回滚](./../article/git.md)~~
 - sourcemap这个是什么文件呢?
-- 去b站看一下电钻视频
+- 看一下部署之后为什么找不到本地文件地址了
+- 看一下使用element-plus按需导入之后怎么使用Elmessage
