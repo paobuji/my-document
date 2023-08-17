@@ -12,8 +12,6 @@
 - [装台](https://tv.cctv.com/2023/06/17/VIDESnP6cn901T1dQ3OELqRH230617.shtml?srcfrom=baidualading&event2=bdtg_pc_hkafjzpq)
 - [熟年](https://www.iqiyi.com/v_2a8lk171ams.html?vfm=2008_aldbd&fv=p_02_01)
 - [甲方乙方](https://www.bilibili.com/bangumi/play/ep415542?theme=movie&spm_id_from=333.337.0.0)
-- 听电台
-- `激励的东西还是有用的啊`
 - 坐在沙发上用椅子看平板
 - 坐在沙发上用椅子直接看手机就行了,看平板费事
 
@@ -23,6 +21,7 @@
 # 睡觉
 - 每天11点准时睡觉
 
+- 皮皮搞笑
 # 学习
 - 看吃播
 - 每天学习半小时(奢侈)
@@ -63,6 +62,7 @@
 
 # 游戏
 - 练习一下马超
+- 练一下司空震
 
 # 听歌
 - [网易云音乐](https://music.163.com/#)
