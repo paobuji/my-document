@@ -57,7 +57,7 @@ export default defineUserConfig({
       "/front/": [
         {
           text: "前端",
-          children: ["/front/scattered-notes", "/front/naming", "/front/array"],
+          children: ["/front/scattered-notes", "/front/naming", "/front/array",'/front/interview'],
         },
       ],
       "/java/": [
@@ -70,7 +70,6 @@ export default defineUserConfig({
         {
           text: "写点正经八百的文章",
           children: [
-            "/article/interview",
             "/article/async-await",
             "/article/unknowncode",
             "/article/git",
