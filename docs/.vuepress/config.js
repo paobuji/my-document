@@ -57,7 +57,7 @@ export default defineUserConfig({
       "/front/": [
         {
           text: "前端",
-          children: ["/front/array", "/front/scattered-notes", "/front/naming"],
+          children: ["/front/scattered-notes", "/front/naming", "/front/array"],
         },
       ],
       "/java/": [
