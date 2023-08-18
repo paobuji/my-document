@@ -9,12 +9,10 @@
 - ~~git的仓库分支已经存在为什么推不上去了呢?~~
 - ~~测试一下lodash的防抖节流函数~~
 - ~~TM的为什么面试一定要问BFC啊,沃日了.~~
+- ~~找一个好用的表单验证的库[表单](http://validatejs.org/)~~
+- ~~[validator](https://github.com/validatorjs/validator.js)~~
 - 看一下大神的面试现场关于输入url到页面渲染的过程是怎么回答的,哈哈
-- 找一个好用的表单验证的库[表单](http://validatejs.org/)
-- [validator](https://github.com/validatorjs/validator.js)
-- 找一下有没有什么好一点的库用于校验表单的
 - 再次复习一下原型链吧(有家公司就问我了)
-- Array.from()是怎么用的?
 - 有机会研究一下vue3的源码,就从最简单的着手吧,看一下有没有好的资料
 - 把react官网的小游戏做掉.[react官方文档](https://react.docschina.org/)
 - 学习一下webpack的配置[文档](https://www.webpackjs.com/concepts/)
