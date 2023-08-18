@@ -48,7 +48,7 @@
 - 嗑瓜子看电视
 
 # 赵本山
-- 樱桃红
+- [樱桃红](https://so.youku.com/search_video/q_%E6%A8%B1%E6%A1%83%E7%BA%A2?searchfrom=1)
 
 # 综艺
 - [奇葩说](https://www.iqiyi.com/v_sxx1hrk62c.html)
