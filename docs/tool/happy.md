@@ -47,6 +47,9 @@
 - 看宋丹丹的小品
 - 嗑瓜子看电视
 
+# 赵本山
+- 樱桃红
+
 # 综艺
 - [奇葩说](https://www.iqiyi.com/v_sxx1hrk62c.html)
 
