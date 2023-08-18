@@ -17,3 +17,7 @@
 - 把react官网的小游戏做掉.[react官方文档](https://react.docschina.org/)
 - 学习一下webpack的配置[文档](https://www.webpackjs.com/concepts/)
 - express文档框架有什么一问一答的好看的样式?
+- sourcemap这个是什么文件呢?
+- 看一下部署之后为什么找不到本地文件地址了
+- 看一下使用element-plus按需导入之后怎么使用Elmessage
+- mysql的workbench怎么导出数据库的表结构
