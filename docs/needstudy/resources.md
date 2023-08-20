@@ -10,6 +10,7 @@
 
 # 面试题
 - [山月的面试题网站](https://q.shanyue.tech/)
+- [李立超](https://www.lilichao.com/)
 
 # 工具
 - notion
