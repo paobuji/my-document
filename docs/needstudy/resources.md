@@ -6,6 +6,7 @@
 - [vuejs官网](https://cn.vuejs.org)
 # 壁纸
 - [wallhaven](https://wallhaven.cc/)
+- [壁纸网站](https://bz.zzzmh.cn/index)
 - [壁纸网站](https://unsplash.com/)
 - [pixabay](https://pixabay.com/)
 # 面试题
