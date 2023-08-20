@@ -17,11 +17,12 @@
 
 # 段子
 - [最右](https://izuiyou.com/)
+- 李力超的声音真好听啊
 
 # 睡觉
 - 每天11点准时睡觉
-
 - 皮皮搞笑
+
 # 学习
 - 看吃播
 - 每天学习半小时(奢侈)
@@ -50,12 +51,6 @@
 # 赵本山
 - [樱桃红](https://so.youku.com/search_video/q_%E6%A8%B1%E6%A1%83%E7%BA%A2?searchfrom=1)
 
-# 综艺
-- [奇葩说](https://www.iqiyi.com/v_sxx1hrk62c.html)
-
-# 综艺
-- [大叔小馆](https://www.ixigua.com/6688541349198692878?utm_source=baidu_lvideo)
-- 我在岛屿读书
 
 # 美食纪录片
 - [深夜食堂](https://www.bilibili.com/bangumi/play/ss28612/?spm_id_from=333.999.0.0)
