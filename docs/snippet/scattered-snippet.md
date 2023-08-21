@@ -54,4 +54,14 @@ function Square({ value, onSquareClick = () => {} }) {
     )
 }
 ```
+## 校验数字大于等于0
 
+```js
+const validatePositiveNumber = (rule, value, callback) => {
+    if (value ==='' || value < 0) {
+        callback(new Error('请输入大于等于0的数字'))
+    } else {
+        callback()
+    }
+}
+```
