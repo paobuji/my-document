@@ -51,6 +51,7 @@
 
 # 赵本山
 - [樱桃红](https://so.youku.com/search_video/q_%E6%A8%B1%E6%A1%83%E7%BA%A2?searchfrom=1)
+- [vue3教程](https://www.youtube.com/watch?v=YrxBCBibVo0&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1)
 
 
 # 美食纪录片
