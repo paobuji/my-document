@@ -54,3 +54,7 @@ legend: {
 ```
 
 ## 为什么echarts渲染series的时候出现-的情况?
+> 知道为什么吗?因为版本不行,项目里用的是4.9的版本,官网里用的是5.4.3的版本,升级下版本就好了.
+
+## 有用的例子
+- [官网例子](https://echarts.apache.org/examples/zh/editor.html?c=multiple-y-axis)
