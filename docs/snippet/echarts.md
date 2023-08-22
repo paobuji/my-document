@@ -36,5 +36,21 @@ options: {
     }
 }
 ```
-## echarts的问题
-- 你知道echarts柱状图有个问题吗?就是一开始xAxis和series有数据的时候可以正常渲染,当下一次xAxis和series都置空的时候就渲染不正常了
+
+## tooltip 按x轴显示
+```js
+tooltip: {
+    trigger: 'axis',
+    axisPointer: {
+        type: 'shadow'
+    }
+},
+legend: {
+    orient: 'horizontal',
+    left: 'left',
+    top: '20px',
+    right: '50%'
+}
+```
+
+## 为什么echarts渲染series的时候出现-的情况?
