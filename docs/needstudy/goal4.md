@@ -4,3 +4,4 @@
 - ~~[学习一下git回滚](./../article/git.md)~~
 - 学习一下rem的原理
 - fontawesome是什么东西
+- 优化获取echarts的series的数据的方法,不要在使用series[0].xxx=xxx的赋值方式了,显得很初级.
