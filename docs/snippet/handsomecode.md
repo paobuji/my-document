@@ -118,3 +118,15 @@ const formattedNow = computed(()=>{
 })
 </script>
 ```
+
+## 获取index
+```js
+if (index === this.feeMonthDistributionByCorp.length - 1) {
+  index = 0;
+} else {
+  index++;
+}
+```
+```js
+index = (index + 1) % this.feeMonthDistributionByCorp.length;
+```
