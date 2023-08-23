@@ -130,3 +130,16 @@ if (index === this.feeMonthDistributionByCorp.length - 1) {
 ```js
 index = (index + 1) % this.feeMonthDistributionByCorp.length;
 ```
+
+## 封装开启定时器的方法,这个不错。
+```js
+startInterval(index) {
+  clearInterval(this.timer);
+  let ind = index;
+  this.timer = setInterval(() => {
+    ind = (ind + 1) % this.feeMonthDistributionByCorp.length;
+    this.selectedValue = ind;
+    this.myChart.setOption(this.getEchartsOptions(ind));
+  }, 10000);
+},
+```
