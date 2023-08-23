@@ -2,3 +2,4 @@
 - client 客户端
 - silent 静默的
 - universal 通用的
+- symbol 符号
