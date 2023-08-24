@@ -6,5 +6,5 @@
 - ~~怎么更好的获取el-cascader的值?~~
 - ~~实现树状结构的数据的增删改查~~
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
-- 通过官方文档学会使用NodeJs
 - navicat lite的使用
+- echarts的dataZoom的使用
