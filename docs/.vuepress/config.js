@@ -35,14 +35,6 @@ export default defineUserConfig({
         ],
       },
       {
-        text: "代码片段",
-        link: "/snippet/handsomecode",
-      },
-      {
-        text: "编程助手",
-        link: "/tool/tool",
-      },
-      {
         text: "目标",
         children: [
           { text: "目标1", link: "/needstudy/goal1" },
@@ -51,6 +43,14 @@ export default defineUserConfig({
           { text: "目标4", link: "/needstudy/goal4" },
           { text: "资源网站", link: "/needstudy/resources" },
         ],
+      },
+      {
+        text: "代码片段",
+        link: "/snippet/handsomecode",
+      },
+      {
+        text: "编程助手",
+        link: "/tool/tool",
       },
     ],
     sidebar: {
