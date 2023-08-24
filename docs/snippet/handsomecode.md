@@ -143,3 +143,15 @@ startInterval(index) {
   }, 10000);
 },
 ```
+## 怎么快速把一个对象中的某些属性拿出来组成一个新的对象
+```js
+const originalObject = {
+  name: 'John',
+  age: 30,
+  email: 'john@example.com',
+  address: '123 Main St'
+};
+const { name, age } = originalObject;
+const newObject = { name, age };
+console.log(newObject);
+```
