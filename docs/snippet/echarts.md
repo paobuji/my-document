@@ -58,3 +58,24 @@ legend: {
 
 ## 有用的例子
 - [官网例子](https://echarts.apache.org/examples/zh/editor.html?c=multiple-y-axis)
+
+## dataZoom
+```js
+dataZoom: [
+		{
+			show: true,
+			realtime: true,
+			start: 0,
+			end: 100,
+			xAxisIndex: [0, 1]
+		},
+		{
+			type: 'inside',
+			realtime: true,
+			start: 0,
+			end: 100,
+			xAxisIndex: [0, 1]
+		}
+	]
+```
+> echarts可以通过dataZoom来实现的,通过将 start 设置为 0，将 end 设置为 100，您将确保 dataZoom 默认显示整个数据范围。这意味着用户一开始就能看到数据的最大范围。
