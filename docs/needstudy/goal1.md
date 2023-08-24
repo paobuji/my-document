@@ -8,3 +8,4 @@
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
 - navicat lite的使用
 - echarts的dataZoom的使用
+- 找一下懒人布鞋
