@@ -71,7 +71,6 @@ export default defineUserConfig({
           text: "写点正经八百的文章",
           children: [
             "/article/async-await",
-            "/article/unknowncode",
             "/article/git",
           ],
         },
@@ -84,6 +83,7 @@ export default defineUserConfig({
             "/snippet/echarts",
             "/snippet/handsomecode",
             "/snippet/scattered-snippet",
+            "/snippet/unknowncode",
           ],
         },
       ],
