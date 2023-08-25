@@ -34,7 +34,7 @@
 # 后台管理系统
 - [react后台管理系统umi](https://umijs.org/)
 - [后台管理系统框架pure-admin](https://github.com/pure-admin/vue-pure-admin)
-
+- [后台管理系统框架scui](https://gitee.com/lolicode/scui)
 # 框架
 - [页面引导库](https://driverjs.com/)
 
