@@ -8,7 +8,7 @@ export default defineUserConfig({
   lang: "zh-CN",
   base: "/my-document/",
   head: [["link", { rel: "icon", href: "/images/logo.png" }]],
-  plugins: [],
+  plugins: [vuepressPluginAnchorRight()],
   theme: defaultTheme({
     logo: "/images/logo.png",
     sidebarDepth: 1,
