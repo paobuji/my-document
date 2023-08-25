@@ -8,3 +8,4 @@
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
 - echarts的dataZoom的使用
 - 怎么发布npm包
+- 发布个npm包把插件的样式优化一下
