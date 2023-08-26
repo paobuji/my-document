@@ -20,6 +20,9 @@
 - 李力超的声音真好听啊
 - 用有线耳机听歌
 
+# 外出
+- 可以去新华书店逛一逛
+
 # 壁纸
 - 去换壁纸[wallhaven](https://wallhaven.cc/)
 
@@ -36,14 +39,17 @@
 - 每天学习半小时(奢侈)
 - 站着玩
 
+# 赵本山
+- [樱桃红](https://so.youku.com/search_video/q_%E6%A8%B1%E6%A1%83%E7%BA%A2?searchfrom=1)
+- [马大帅](https://www.ixigua.com/6793227325396746759?utm_source=baidu_lvideo)
+
 # 影视明星
-- 刘蓓
 - [芝麻胡同](https://www.iqiyi.com/v_19rqxqzd50.html)
+- [刘蓓](https://www.freeok.vip)
 - 万茜
 - 胡歌
 - 乔杉
 - 宋丹丹
-- [马大帅](https://www.ixigua.com/6793227325396746759?utm_source=baidu_lvideo)
 # 电视剧
 - [百家讲坛](https://tv.cctv.com/lm/bjjt/)
 - [王立群大风歌](https://v.youku.com/v_show/id_XNDUyMDYzMjE3Ng==.html?s=a826af36f2154aae8d81&spm=a2hje.13141534.1_3.d_15_1&scm=20140719.apircmd.239143.video_XNDUyMDYzMjE3Ng==)
@@ -56,11 +62,6 @@
 - 三国演义
 - 看宋丹丹的小品
 - 嗑瓜子看电视
-
-# 赵本山
-- [樱桃红](https://so.youku.com/search_video/q_%E6%A8%B1%E6%A1%83%E7%BA%A2?searchfrom=1)
-- [vue3教程](https://www.youtube.com/watch?v=YrxBCBibVo0&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1)
-
 
 # 美食纪录片
 - [深夜食堂](https://www.bilibili.com/bangumi/play/ss28612/?spm_id_from=333.999.0.0)
