@@ -22,14 +22,11 @@
 
 # 壁纸
 - 换壁纸[wallhaven](https://wallhaven.cc/)
+- [去逛京东](https://www.jd.com/)
 
 # 早起
 - 早起做300个胯下击掌是一件很酷很新鲜的事.
 - 脑袋放空的方法看书
-
-# 睡觉
-- 每天11点准时睡觉
-- 皮皮搞笑
 
 # 学习
 - 看吃播
@@ -47,6 +44,7 @@
 - 胡歌
 - 乔杉
 - 宋丹丹
+
 # 电视剧
 - [百家讲坛](https://tv.cctv.com/lm/bjjt/)
 - [王立群大风歌](https://v.youku.com/v_show/id_XNDUyMDYzMjE3Ng==.html?s=a826af36f2154aae8d81&spm=a2hje.13141534.1_3.d_15_1&scm=20140719.apircmd.239143.video_XNDUyMDYzMjE3Ng==)
