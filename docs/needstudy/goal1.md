@@ -8,6 +8,7 @@
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
 - ~~mysql导出.sql文件一定要是用navicat吗?~~
 - echarts的dataZoom的使用
+- 把react的项目也部署一下
 - 怎么发布npm包
 - 发布个npm包把插件的样式优化一下
 - [rimraf](https://www.npmjs.com/package/rimraf)
