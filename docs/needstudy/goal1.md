@@ -6,8 +6,8 @@
 - ~~怎么更好的获取el-cascader的值?~~
 - ~~实现树状结构的数据的增删改查~~
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
+- ~~mysql导出.sql文件一定要是用navicat吗?~~
 - echarts的dataZoom的使用
 - 怎么发布npm包
 - 发布个npm包把插件的样式优化一下
-- mysql导出.sql文件一定要是用navicat吗?
 - [rimraf](https://www.npmjs.com/package/rimraf)

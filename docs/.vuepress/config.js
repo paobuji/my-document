@@ -20,7 +20,7 @@ export default defineUserConfig({
         text: "学习笔记",
         children: [
           { text: "前端", link: "/front/array" },
-          { text: "java", link: "/java/java" },
+          { text: "后端", link: "/java/java" },
           { text: "写点可能用的上的文章", link: "/article/async-await" },
           { text: "代码片段", link: "/snippet/element" },
           { text: "react", link: "/react/react" },
@@ -57,22 +57,23 @@ export default defineUserConfig({
       "/front/": [
         {
           text: "前端",
-          children: ["/front/scattered-notes", "/front/naming", "/front/array",'/front/interview'],
+          children: [
+            "/front/scattered-notes",
+            "/front/naming",
+            "/front/interview",
+          ],
         },
       ],
       "/java/": [
         {
           text: "后端",
-          children: ["/java/java", "/java/linux"],
+          children: ["/java/java", "/java/mysql", "/java/linux"],
         },
       ],
       "/article/": [
         {
           text: "写点正经八百的文章",
-          children: [
-            "/article/async-await",
-            "/article/git",
-          ],
+          children: ["/article/async-await", "/article/git"],
         },
       ],
       "/snippet": [

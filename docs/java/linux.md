@@ -1,5 +1,5 @@
 
-# linux学习笔记
+# linux
 - `ls /` 查看根目录下的文件
 - `pwd` 查看当前工作目录
 - `cd` `change directory` 切换目录

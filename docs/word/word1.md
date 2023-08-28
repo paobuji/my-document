@@ -27,8 +27,6 @@
 - `iterate` v:迭代
 - `interact` v:交互
 - `integration` n:集成
-- `happy` adj:高兴的
-- `hoppy` n:爱好
 - `CLI` n:命令行
 - `GUI` n:图形界面
 - `vertical` adj:垂直的
