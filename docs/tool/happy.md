@@ -7,13 +7,14 @@
 - 看刘蓓的电影电视剧
 - 看范明的电视剧电影
 - 看`万茜`的电视剧
+- 坐在沙发上用椅子直接看手机就行了,看平板费事
+- 坐在沙发上用椅子看平板
 - [深夜食堂](https://www.bilibili.com/bangumi/play/ss28611?spm_id_from=333.337.0.0)
 - [金太郎的幸福生活](https://www.ixigua.com/search/%E9%87%91%E5%A4%AA%E7%8B%BC%E7%9A%84%E5%B9%B8%E7%A6%8F%E7%94%9F%E6%B4%BB/?logTag=6d61710302328edc481f&tab_name=home&fss=sug)
 - [装台](https://tv.cctv.com/2023/06/17/VIDESnP6cn901T1dQ3OELqRH230617.shtml?srcfrom=baidualading&event2=bdtg_pc_hkafjzpq)
 - [熟年](https://www.iqiyi.com/v_2a8lk171ams.html?vfm=2008_aldbd&fv=p_02_01)
 - [甲方乙方](https://www.bilibili.com/bangumi/play/ep415542?theme=movie&spm_id_from=333.337.0.0)
-- 坐在沙发上用椅子看平板
-- 坐在沙发上用椅子直接看手机就行了,看平板费事
+- [喜欢的鞋子](./happy-clothes.md)
 
 # 段子
 - [最右](https://izuiyou.com/)
