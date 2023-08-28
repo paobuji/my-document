@@ -1,4 +1,4 @@
-# 无聊时候的目标
+# 目标3
 - `看文档的能力很重要的`
 - `任何事情尽最大努力去做是很重要的,因为那样就不会怪自己了`
 - ~~优化下部署vuexpress的流程[参考](https://www.bilibili.com/video/BV17G4y177YJ/?spm_id_from=333.337.search-card.all.click&vd_source=fa248929cbbce67cc8afaf2d6b210f14)~~
@@ -11,13 +11,11 @@
 - ~~TM的为什么面试一定要问BFC啊,沃日了.~~
 - ~~找一个好用的表单验证的库[表单](http://validatejs.org/)~~
 - ~~[validator](https://github.com/validatorjs/validator.js)~~
+- 把react官网的小游戏做掉.[react官方文档](https://react.docschina.org/)
 - 看一下大神的面试现场关于输入url到页面渲染的过程是怎么回答的,哈哈
 - 再次复习一下原型链吧(有家公司就问我了)
 - 有机会研究一下vue3的源码,就从最简单的着手吧,看一下有没有好的资料
-- 把react官网的小游戏做掉.[react官方文档](https://react.docschina.org/)
 - 学习一下webpack的配置[文档](https://www.webpackjs.com/concepts/)
 - express文档框架有什么一问一答的好看的样式?
 - sourcemap这个是什么文件呢?
-- 看一下部署之后为什么找不到本地文件地址了
 - 看一下使用element-plus按需导入之后怎么使用Elmessage
-- mysql的workbench怎么导出数据库的表结构

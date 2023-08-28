@@ -65,3 +65,6 @@ const validatePositiveNumber = (rule, value, callback) => {
     }
 }
 ```
+
+## 一些不错的颜色
+- #C6DDB3
