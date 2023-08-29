@@ -25,6 +25,7 @@
 # 壁纸
 - 换壁纸[wallhaven](https://wallhaven.cc/)
 - [去逛京东](https://www.jd.com/)
+- 去逛得物
 
 # 早起
 - 早起做300个胯下击掌是一件很酷很新鲜的事.
