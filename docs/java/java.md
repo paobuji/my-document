@@ -50,7 +50,7 @@ for(Object item : arrayList){
 > nginx -s reload
 - 停止nginx服务
 > nginx -s stop
-> nginx的每一行配置都需要添加分号;
+- **nginx的每一行配置都需要添加分号;**
 ## `final`的用法
 - 在Java中，`final`关键字用于修饰类、方法和变量，具有不同的含义。
 - 对于类和方法，`final`表示这个类或方法不能被继承或重写，这是一种防止子类修改父类的行为的机制。
