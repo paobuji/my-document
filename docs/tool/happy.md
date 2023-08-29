@@ -92,6 +92,7 @@
 - 情圣
 
 # 电影网站
+- [猫眼](https://www.maoyan.com/)
 - [朴樱影视](https://www.pyys.top/)
 - [freeok](https://freeok.vip)
 
