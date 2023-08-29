@@ -11,5 +11,5 @@
 - 把react的项目也部署一下
 - 怎么发布npm包
 - 发布个npm包把插件的样式优化一下
-- [rimraf](https://www.npmjs.com/package/rimraf)
-- 优化下react-router空路由的处理情况
+- 我react项目的端口是5000,我部署的时候总不能也得部署成5000才行吧,这个时候是不是需要用到nginx的反向代理了?
+- 下载一个navicat16破解一下试试
