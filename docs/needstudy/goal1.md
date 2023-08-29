@@ -6,6 +6,4 @@
 - ~~怎么更好的获取el-cascader的值?~~
 - ~~实现树状结构的数据的增删改查~~
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
-- echarts的dataZoom的使用
-- 把react的项目也部署一下
-- 我react项目的端口是5000,我部署的时候总不能也得部署成5000才行吧,这个时候是不是需要用到nginx的反向代理了?
+- 使用nodejs写一套增删改查的接口
