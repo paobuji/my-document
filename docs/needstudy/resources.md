@@ -14,7 +14,7 @@
 - [李立超](https://www.lilichao.com/)
 
 # 工具
-- notion
+- [node版本管理器](https://github.com/coreybutler/nvm-windows/releases)
 
 # 博客
 - [antfu](https://antfu.me/)
