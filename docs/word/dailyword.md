@@ -23,3 +23,4 @@
 - `respect`: v:尊重 n:尊敬
 - `inspect`: v:检查 n:检查
 - `aspect`: n:方面
+- `pool` : n:水池
