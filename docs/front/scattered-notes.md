@@ -84,4 +84,7 @@ console.log(innerFunction()); // 输出 15
 - 每个对象都有一个私有属性`__proto__`指向它的构造函数的原型对象（prototype）
 
 ## 数组常用方法
-- slice()：返回一个新的数组对象，这一对象是一个由 begin 和 end 决定的原数组的浅拷贝（包括 begin，不包括 end）。
+- slice(indexStart,indexEnd)：返回一个新的数组对象，这一对象是一个由 begin 和 end 决定的原数组的浅拷贝（包括 begin，不包括 end）。
+
+## 字符串常用方法
+- substring(indexStart,indexEnd): 包含给定字符串的指定部分的新字符串。
