@@ -1,4 +1,4 @@
-# 杂记
+# 笔记
 
 ## 深度选择器
 - `/deep/`是一个`深度选择器`,它可以使得样式穿透到子组件中,但是它只能作用于子组件的样式中,不能作用于父组件的样式中.
@@ -38,9 +38,6 @@ console.log(innerFunction()); // 输出 15
 - 在代码中使用debugger;
 ## 饿了么级联选择器
 - [饿了么级联选择器](https://element.eleme.cn/#/zh-CN/component/cascader)
-## 跨域问题
-> Access to XMLHttpRequest at 'http://127.0.0.1:8081/api/getAllMenu' from origin 'http://127.0.0.1:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
-- 妈的重新测试了一般还是不明所以
 
 ## 换行符
 - `<br>`
