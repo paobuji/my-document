@@ -8,6 +8,7 @@
 - [wallhaven](https://wallhaven.cc/)
 - [壁纸网站](https://unsplash.com/)
 - [pixabay](https://pixabay.com/)
+- [vscode主题](https://vscodethemes.com/)
 # 面试题
 - [山月的面试题网站](https://q.shanyue.tech/)
 - [李立超](https://www.lilichao.com/)
