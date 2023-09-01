@@ -41,8 +41,6 @@ console.log(innerFunction()); // 输出 15
 ## 跨域问题
 > Access to XMLHttpRequest at 'http://127.0.0.1:8081/api/getAllMenu' from origin 'http://127.0.0.1:5173' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
 - 妈的重新测试了一般还是不明所以
-## 定义变量
-- customXXX
 
 ## 换行符
 - `<br>`
@@ -55,17 +53,9 @@ console.log(innerFunction()); // 输出 15
 - 伪元素有`::before`和`::after`
 - 其中::before 和 :before 是等价的,::after 和 :after 是等价的
 
-## provide和inject是个很大的坑
-- 其实是能传递的,只是因为是响应式的数据,修改了子组件,父组件会同时修改,这不好解决
-- 为什么我只是在data里定义了一个空对象,然后在mounted里赋了下值,就通过provide传递不过去了呢?
-- 他妈的就算赋好了值传递了过去也不能实现子组件改变,父组件不改变的效果,简直是垃圾,不用了.
-
 ## grid的两个属性
 - `justify-content`属性是整个内容区域在容器里面的水平位置（左中右）
 - `align-content`属性是整个内容区域的垂直位置（上中下）
-
-## google浏览器
-- google浏览器启用自定义格式设置工具,可以更好的查看ref的值
 
 ## el-form中:model="form"
 - 这个:model="form"其实是可以不用定义的,把它定义成对象是为了更好地展示数据
@@ -74,14 +64,23 @@ console.log(innerFunction()); // 输出 15
 ## git强制推送
 - git push -f origin master
 
-## vscode快捷键-快速移动到文件最底部
-- ctrl+end
-
 ## 使用vite搭建项目
 - npm create vite@latest
 
 ## 原型链
 - 每个对象都有一个私有属性`__proto__`指向它的构造函数的原型对象（prototype）
+
+## 表单校验
+- 表单校验数字类型一定要加上type="number",省太多事了
+- 一般来讲>=0很危险,因为空值''==0,所以一般用>0
+```js
+<el-input v-model.number="scope.row.amount" type="number"></el-input>
+```
+## 事件循环
+- 基本上，setTimeout 需要等待当前队列中所有的消息都处理完毕之后才能执行，即使已经超出了由第二参数所指定的时间。
+
+## parseInt("abc")
+- > parseInt("abc") // NaN
 
 ## 数组常用方法
 - slice(indexStart,indexEnd)：返回一个新的数组对象，这一对象是一个由 begin 和 end 决定的原数组的浅拷贝（包括 begin，不包括 end）。
