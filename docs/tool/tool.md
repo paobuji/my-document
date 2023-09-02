@@ -4,11 +4,8 @@
 - copilot
 - codewhisperer
 - codeGeex
----
-# vscode中一些插件支持chatgpt
 - bito 
-- 小霸王(可以玩游戏)
----
+
 # 浏览器插件支持chatgpt
 - Wetab (日常使用)
 - monica (日常使用)
@@ -28,11 +25,6 @@
 - 沙拉查词
 - 沉浸式翻译
 
-
 # 成人高考学校
 - 安农大
 - 合肥师范学院
-
-# 可值的去的城市
-- 苏州
-- 珠海

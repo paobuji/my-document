@@ -60,7 +60,6 @@ export default defineUserConfig({
           children: [
             "/front/scattered-notes",
             "/front/naming",
-            "/front/interview",
           ],
         },
       ],
