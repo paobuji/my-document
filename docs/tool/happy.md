@@ -1,3 +1,9 @@
+
+# 开心的事
+> 看吃播
+> 看陈伯
+> 每天学习二十分钟,十几分钟也行啦(奢侈)
+
 # 开心的事情
 - `看的越多想的越多`
 - `我知道是一直想着它`
@@ -15,23 +21,13 @@
 - [喜欢的鞋子](./happy-clothes.md)
 
 # 段子
-- [最右](https://izuiyou.com/)
 - 李力超的声音还是不错的
 - 用有线耳机听歌
 
 # 壁纸
-- 换壁纸[wallhaven](https://wallhaven.cc/)
+- [wallhaven](https://wallhaven.cc/)
 - [去逛京东](https://www.jd.com/)
 - 去逛得物
-
-# 早起
-- 早起做300个胯下击掌是一件很酷很新鲜的事.
-- 脑袋放空的方法看书
-
-# 学习
-- 看吃播
-- 每天学习二十分钟,十几分钟也行啦(奢侈)
-- 站着玩
 
 # 赵本山
 - [樱桃红](https://so.youku.com/search_video/q_%E6%A8%B1%E6%A1%83%E7%BA%A2?searchfrom=1)
