@@ -41,3 +41,6 @@
 # GPT
 - [ai](http://ai.sb/)
 - [github@binjie.site](https://github.com/binjie09/chatgpt-web)
+
+# chrome主题
+- [stay flo](https://chrome.google.com/webstore/detail/stay-flo/egpmoffkahilephjdbpojnniapjhooka)
