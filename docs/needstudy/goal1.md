@@ -8,3 +8,4 @@
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
 - 使用nodejs写一套增删改查的接口
 - 洋葱模型是什么?
+- 把博客的路由配置优化一下
