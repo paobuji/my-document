@@ -14,7 +14,7 @@
 - [猫眼](https://www.maoyan.com/)
 - [朴樱影视](https://www.pyys.top/)
 - [freeok](https://freeok.vip)
-
+- 星露谷物语
 # 健身
 - 胯下击掌(500)
 - 跳绳
@@ -22,5 +22,6 @@
 # 电视剧
 - 东北警察故事
 - 看惊悚恐怖片
+
 
 
