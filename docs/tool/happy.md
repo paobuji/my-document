@@ -14,6 +14,7 @@
 - [猫眼](https://www.maoyan.com/)
 - [朴樱影视](https://www.pyys.top/)
 - [freeok](https://freeok.vip)
+- [菜谱](https://chengpeiquan.com/cookbook)
 - 星露谷物语
 # 健身
 - 胯下击掌(500)
