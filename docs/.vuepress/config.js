@@ -21,7 +21,6 @@ export default defineUserConfig({
         children: [
           { text: "前端", link: "/front/scattered-notes" },
           { text: "后端", link: "/java/java" },
-          { text: "写点可能用的上的文章", link: "/article/async-await" },
           { text: "代码片段", link: "/snippet/element" },
           { text: "react", link: "/react/react" },
         ],
@@ -60,6 +59,8 @@ export default defineUserConfig({
           children: [
             "/front/scattered-notes",
             "/front/naming",
+            "/front/async-await",
+            "/front/git"
           ],
         },
       ],
@@ -67,12 +68,6 @@ export default defineUserConfig({
         {
           text: "后端",
           children: ["/java/java", "/java/mysql", "/java/linux"],
-        },
-      ],
-      "/article/": [
-        {
-          text: "写点正经八百的文章",
-          children: ["/article/async-await", "/article/git"],
         },
       ],
       "/snippet": [
