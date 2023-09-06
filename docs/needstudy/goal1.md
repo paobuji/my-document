@@ -6,4 +6,4 @@
 - ~~怎么更好的获取el-cascader的值?~~
 - ~~实现树状结构的数据的增删改查~~
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
-- 给博客写一个获取壁纸的接口
+- 简单学习一下class的用法.
