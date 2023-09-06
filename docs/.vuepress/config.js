@@ -59,7 +59,7 @@ export default defineUserConfig({
           children: [
             "/front/scattered-notes",
             "/front/naming",
-            "/front/async-await",
+            "/front/promise",
             "/front/git"
           ],
         },

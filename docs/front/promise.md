@@ -1,4 +1,4 @@
-# 对promise的理解
+# promise用法
 ```javascript
 const getStudentList = () => {
    getAllStudent(params).then((res) => {

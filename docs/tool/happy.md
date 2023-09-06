@@ -14,8 +14,7 @@
 - [猫眼](https://www.maoyan.com/)
 - [朴樱影视](https://www.pyys.top/)
 - [freeok](https://freeok.vip)
-- [菜谱](https://chengpeiquan.com/cookbook)
-- 星露谷物语
+- [simba](https://www.bilibili.com/video/BV1Sz4y1o7Ws/?p=4&spm_id_from=pageDriver&vd_source=fa248929cbbce67cc8afaf2d6b210f14)
 # 健身
 - 胯下击掌(500)
 - 跳绳
