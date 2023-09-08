@@ -7,4 +7,4 @@
 - ~~实现树状结构的数据的增删改查~~
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
 - 简单学习一下class的用法.
-- 练习一下swiper的插件(同向切换+内页过长滚动)
+- 再把git强制提交练习的熟练一点
