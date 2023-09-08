@@ -188,3 +188,28 @@ const { name, age } = originalObject;
 const newObject = { name, age };
 console.log(newObject);
 ```
+## 表单验证方法
+```js
+function validateFee(){
+    let name = document.querySelector(".content-form-box>input[name='name']").value
+    let num = document.querySelector(".content-form-box>input[name='mobile']").value;
+    let need = document.querySelector(".content-form-box>input[name='need']").value;
+    if(name ==='') {
+        alert("请输入姓名")
+        return false;
+    }
+    if(num==='') {
+        alert(("请输入手机号码"))
+        return false;
+    }
+    if (!validatePhoneNumber(num)){
+        alert('请正确输入手机号码')
+        return false;
+    }
+    if(need === ''){
+        alert("请填写需求")
+        return false;
+    }
+    return true;
+}
+```
