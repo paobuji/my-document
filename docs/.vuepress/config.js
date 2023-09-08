@@ -40,7 +40,6 @@ export default defineUserConfig({
           { text: "目标2", link: "/needstudy/goal2" },
           { text: "无聊时候的目标3", link: "/needstudy/goal3" },
           { text: "目标4", link: "/needstudy/goal4" },
-          { text: "资源网站", link: "/needstudy/resources" },
         ],
       },
       {
@@ -94,8 +93,8 @@ export default defineUserConfig({
           children: [
             "/tool/tool",
             "/tool/happy",
+            "/tool/resources",
             "/tool/zhengzhi",
-            "/tool/lifetime",
             "/tool/sentence",
             "/tool/music",
           ],
