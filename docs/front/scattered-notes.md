@@ -45,6 +45,9 @@ console.log(innerFunction()); // 输出 15
 ## git强制推送
 - git push -f origin master
 
+## 添加远程仓库
+- git remote add origin https://xxx
+
 ## 使用vite搭建项目
 - npm create vite@latest
 
