@@ -7,4 +7,4 @@
 - ~~实现树状结构的数据的增删改查~~
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
 - 简单学习一下class的用法.
-- 再把git强制提交练习的熟练一点
+- 了解一下BroadCastChannel是什么意思?
