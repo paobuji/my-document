@@ -9,3 +9,4 @@
 - 简单学习一下class的用法.
 - 了解一下BroadCastChannel是什么意思?
 - 学习eggjs
+- mysql -u 是什么意思呢?
