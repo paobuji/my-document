@@ -8,3 +8,4 @@
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
 - 简单学习一下class的用法.
 - 了解一下BroadCastChannel是什么意思?
+- 学习eggjs
