@@ -6,7 +6,6 @@
 - ~~怎么更好的获取el-cascader的值?~~
 - ~~实现树状结构的数据的增删改查~~
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
-- 简单学习一下class的用法.
 - 了解一下BroadCastChannel是什么意思?
 - 学习eggjs
-- mysql -u 是什么意思呢?
+- 把树结构递归的方法使用eggjs重新再写一遍
