@@ -59,7 +59,8 @@ export default defineUserConfig({
             "/front/scattered-notes",
             "/front/naming",
             "/front/promise",
-            "/front/git"
+            "/front/eggjs",
+            "/front/git",
           ],
         },
       ],
