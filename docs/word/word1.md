@@ -25,16 +25,7 @@
 - `cell` n:单元格
 - `fatal` adj:致命的
 - `iterate` v:迭代
-- `interact` v:交互
-- `integration` n:集成
-- `CLI` n:命令行
-- `GUI` n:图形界面
-- `vertical` adj:垂直的
-- `tracking` n:跟踪
-- `persist` v:持久化
-- `entry` n:入口
-- `square` n:正方形
-- `board` n:板
-- `protocol port` 协议端口
 - `observe` v:观察
 - `deserve` v:应得 该得 值得
+- `ctx` : n:context(上下文)
+- `ctx.env`: n:上下文环境
