@@ -213,3 +213,24 @@ function validateFee(){
     return true;
 }
 ```
+## 手写弹窗控制body不滚动
+```js
+.disable-scroll {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    position: fixed;
+}
+$('.login-register').click(function (){
+    pos = $(window).scrollTop();
+    $body.addClass('disable-scroll')
+    $body.css({
+        top: -pos + 'px'
+    })
+    $('.wrapper').fadeIn()
+})
+$('.closeImg').click(function (){
+    $body.removeClass('disable-scroll')
+    $(window).scrollTop(pos);
+    $('.wrapper').fadeOut()
+})
+```
