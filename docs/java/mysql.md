@@ -20,3 +20,9 @@
 4. 输入`show tables;`回车,查看表
 5. 输入`select * from user;`回车,查看表中的内容
 6. 输入`exit;`回车,退出mysql
+
+## 修改mysql8的密码插件
+1. 首先在cmd中输入`mysql -u root -p`回车,然后输入密码,回车,进入mysql
+2. 输入`select user,plugin from mysql.user;`回车,查看密码插件
+3. 输入`ALTER USER 'root'@'localhost' IDENTIFIED WITH 'mysql_native_password' BY '123456';`回车,修改密码插件
+4. 输入`exit;`回车,退出mysql
