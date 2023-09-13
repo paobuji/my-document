@@ -8,4 +8,4 @@
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
 - 了解一下BroadCastChannel是什么意思?
 - 学习eggjs
-- 把树结构递归的方法使用eggjs重新再写一遍(这个很重要)
+- 搜索一下在eggjs中controller和service中方法的命名规范
