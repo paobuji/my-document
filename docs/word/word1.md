@@ -6,15 +6,6 @@
 - `drag and drop` 拖放
 - `resume` 恢复
 - `collapse` v:折叠 n:崩溃
-- `quit` 退出程序
-- `pads`: 垫
-- `pipe`: 管道
-- `camp`: 露营
-- `campus`: 校园
-- `industry`: n:工业 行业
-- `ship`: n:船 v:运送
-- `leaf`: n:叶子
-- `amount` n:金额,数量,总额,大部分情况下指金额
 - `valid` adj:有效的
 - `invalid` adj:无效的
 - `validate` v:验证
@@ -29,3 +20,4 @@
 - `deserve` v:应得 该得 值得
 - `ctx` : n:context(上下文)
 - `ctx.env`: n:上下文环境
+- `impact`: n:影响力
