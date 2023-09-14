@@ -9,3 +9,4 @@
 - 了解一下BroadCastChannel是什么意思?
 - 学习eggjs
 - 搜索一下在eggjs中controller和service中方法的命名规范
+- 学习一下nuxtjs
