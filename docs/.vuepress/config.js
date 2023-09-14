@@ -61,6 +61,7 @@ export default defineUserConfig({
             "/front/promise",
             "/front/eggjs",
             "/front/git",
+            "/front/css",
           ],
         },
       ],
