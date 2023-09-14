@@ -10,3 +10,4 @@
 - 学习eggjs
 - 搜索一下在eggjs中controller和service中方法的命名规范
 - 学习一下nuxtjs
+- 找一套nuxt写的官网模板
