@@ -12,5 +12,4 @@
 - ~~找一个好用的表单验证的库[表单](http://validatejs.org/)~~
 - ~~[validator](https://github.com/validatorjs/validator.js)~~
 - 再次复习一下原型链吧(有家公司就问我了)
-- 有机会研究一下vue3的源码,就从最简单的着手吧,看一下有没有好的资料
-- sourcemap这个是什么文件呢?
+- 写一下flex和grid的布局区别
