@@ -19,6 +19,8 @@
 - [node版本管理器](https://github.com/coreybutler/nvm-windows/releases)
 - [react版博客框架](https://docusaurus.io/zh-CN/)
 - [egg-mysql](https://github.com/eggjs/egg-mysql)
+- [pinia持久化库](https://prazdevs.github.io/pinia-plugin-persistedstate/zh/guide/config.html)
+
 
 # 博客
 - [antfu](https://antfu.me/)
