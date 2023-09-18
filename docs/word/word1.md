@@ -21,3 +21,5 @@
 - `ctx` : n:context(上下文)
 - `ctx.env`: n:上下文环境
 - `impact`: n:影响力
+- `uppercase`: n:大写
+- `lowercase`: n:小写
