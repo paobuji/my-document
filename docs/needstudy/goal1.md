@@ -6,9 +6,8 @@
 - ~~怎么更好的获取el-cascader的值?~~
 - ~~实现树状结构的数据的增删改查~~
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
-- 了解一下BroadCastChannel是什么意思?
+- ~~了解一下BroadCastChannel是什么意思?~~
 - 学习eggjs
-- 搜索一下在eggjs中controller和service中方法的命名规范
 - 学习一下nuxtjs
-- 找一套nuxt写的官网模板
 - 我就不信获取不到div内容的宽度
+- 解决一下el-menu只有父元素没有子元素的报错
