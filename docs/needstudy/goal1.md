@@ -9,5 +9,3 @@
 - ~~了解一下BroadCastChannel是什么意思?~~
 - 学习eggjs
 - 学习一下nuxtjs
-- 我就不信获取不到div内容的宽度
-- 解决一下el-menu只有父元素没有子元素的报错
