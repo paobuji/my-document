@@ -8,4 +8,4 @@
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
 - ~~了解一下BroadCastChannel是什么意思?~~
 - 学习eggjs
-- 学习一下nuxtjs
+- 看一下animxyz.com是什么东西?
