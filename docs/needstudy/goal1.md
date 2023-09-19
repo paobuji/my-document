@@ -8,4 +8,5 @@
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
 - ~~了解一下BroadCastChannel是什么意思?~~
 - 学习eggjs
-- 学习一下nuxtjs
+- 从零开始写一套后台管理系统.
+- `看文档的能力很重要的`
