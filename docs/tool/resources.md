@@ -55,3 +55,6 @@
 
 ## 命名网站
 - [varbook](https://varbook.uiuing.com/)
+
+## 动画库
+- [animxyz](https://animxyz.com/)
