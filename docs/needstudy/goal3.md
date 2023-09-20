@@ -10,5 +10,4 @@
 - ~~TM的为什么面试一定要问BFC啊,沃日了.~~
 - ~~找一个好用的表单验证的库[表单](http://validatejs.org/)~~
 - ~~[validator](https://github.com/validatorjs/validator.js)~~
-- 再次复习一下原型链吧(有家公司就问我了)
-- 写一下flex和grid的布局区别
+- ~~写一下flex和grid的布局区别~~
