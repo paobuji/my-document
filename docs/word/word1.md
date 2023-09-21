@@ -11,7 +11,6 @@
 - `validate` v:验证
 - `invalidate` v:使无效
 - `prettier` adj:漂亮的
-- `syntax` n:语法
 - `gap` n:缺口 间隙 
 - `cell` n:单元格
 - `fatal` adj:致命的
