@@ -62,6 +62,7 @@ export default defineUserConfig({
             "/front/eggjs",
             "/front/git",
             "/front/css",
+            "/front/grid"
           ],
         },
       ],
