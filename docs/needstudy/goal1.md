@@ -8,6 +8,5 @@
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
 - ~~了解一下BroadCastChannel是什么意思?~~
 - 学习eggjs
-- 从零开始写一套后台管理系统.
-- 看一下animxyz.com是什么东西?
+- 使用ai看源码
 - `看文档的能力很重要的`
