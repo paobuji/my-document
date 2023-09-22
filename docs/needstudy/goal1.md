@@ -7,8 +7,9 @@
 - ~~实现树状结构的数据的增删改查~~
 - ~~优化博客的搜索功能.[docsearch](https://docsearch.algolia.com/)~~
 - ~~了解一下BroadCastChannel是什么意思?~~
+- ~~为什么别人的grid写的那么完美,我写的那么烂~~
+- ~~怎么给tailwind的单位默认设置成px;~~
 - `看文档的能力很重要的`
 - 使用ai看源码
 - 给我的admin添加快捷导航方式
-- 怎么给tailwind的单位默认设置成px;
-- 为什么别人的grid写的那么完美,我写的那么烂
+
