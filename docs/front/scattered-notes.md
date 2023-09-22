@@ -77,3 +77,8 @@ console.log(innerFunction()); // 输出 15
 
 ## localStorage
 - localStorage就是网页版的pinia
+
+## tailwindcss设置固定的px
+- 在tailwind.config.js中设置
+> <div class="w-[100px] h-[120px] bg-slate-500"></div>
+ 
