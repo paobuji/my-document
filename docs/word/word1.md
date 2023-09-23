@@ -22,3 +22,4 @@
 - `impact`: n:影响力
 - `uppercase`: n:大写
 - `lowercase`: n:小写
+- `archive`: n:档案
