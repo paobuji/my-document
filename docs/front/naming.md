@@ -6,5 +6,8 @@
 ## 父元素和子元素的类命名
 - 如果父元素命名了xxx,子元素可以使用xxx-item,xxx-list,xxx-content等命名
 
+## xxxNode
+- box1Node: 表示 .box1 元素的 DOM 节点。Node 是 DOM 元素的基类。
+
 ## 网站
 - [varbook](https://varbook.uiuing.com/)
