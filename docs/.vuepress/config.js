@@ -7,7 +7,7 @@ export default defineUserConfig({
   title: "笔记",
   lang: "zh-CN",
   base: "/my-document/",
-  head: [["link", { rel: "icon", href: "/my-document/images/bycycle.png" }]],
+  head: [["link", { rel: "icon", href: "/my-document/images/favicon.ico" }]],
   plugins: [vuepressPluginAnchorRight()],
   theme: defaultTheme({
     logo: "/images/bycycle.png",
