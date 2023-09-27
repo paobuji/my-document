@@ -7,7 +7,7 @@ export default defineUserConfig({
   title: "笔记",
   lang: "zh-CN",
   base: "/my-document/",
-  head: [["link", { rel: "icon", href: "/images/logo.png" }]],
+  head: [["link", { rel: "icon", href: "/my-document/images/logo.png" }]],
   plugins: [vuepressPluginAnchorRight()],
   theme: defaultTheme({
     logo: "/images/logo.png",
