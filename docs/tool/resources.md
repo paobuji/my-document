@@ -26,23 +26,13 @@
 ## 博客
 - [antfu](https://antfu.me/)
 - [别人写的很好的博客](https://wiki.eryajf.net/)
-- [Cali西爷干货殿](https://space.bilibili.com/8350251)
 - [tailwind](https://www.tailwindcss.cn/)
 - [pengzhile](https://zhile.io/)
 
-## vite
-- [vite打包配置文档](https://cn.vitejs.dev/config/build-options.html)
-
 ## 有意思的网站
-- [别人的github网站](https://github.com/FightingDesign/awesome)
 - [All elements made with CSS and HTML](https://uiverse.io/)
 - [站点部署vercel](https://vercel.com/)
 
-
-## 后台管理系统
-- [react后台管理系统umi](https://umijs.org/)
-- [后台管理系统框架pure-admin](https://github.com/pure-admin/vue-pure-admin)
-- [后台管理系统框架scui](https://gitee.com/lolicode/scui)
 ## 框架
 - [页面引导库](https://driverjs.com/)
 
