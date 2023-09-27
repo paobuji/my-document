@@ -7,10 +7,10 @@ export default defineUserConfig({
   title: "笔记",
   lang: "zh-CN",
   base: "/my-document/",
-  head: [["link", { rel: "icon", href: "/my-document/images/logo.png" }]],
+  head: [["link", { rel: "icon", href: "/my-document/images/bycycle.png" }]],
   plugins: [vuepressPluginAnchorRight()],
   theme: defaultTheme({
-    logo: "/images/logo.png",
+    logo: "/images/bycycle.png",
     sidebarDepth: 1,
     repo: "paobuji/my-document",
     editLink: false,
