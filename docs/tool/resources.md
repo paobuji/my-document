@@ -6,12 +6,6 @@
 - [30secondsofcode](https://www.30secondsofcode.org/)
 - [vuejs官网](https://cn.vuejs.org)
 
-## 壁纸
-- [wallhaven](https://wallhaven.cc/)
-- [壁纸网站](https://unsplash.com/)
-- [pixabay](https://pixabay.com/)
-- [vscode主题](https://vscodethemes.com/)
-
 ## 面试题
 - [山月的面试题网站](https://q.shanyue.tech/)
 - [李立超](https://www.lilichao.com/)
@@ -39,8 +33,12 @@
 
 ## chrome主题
 - [stay flo](https://chrome.google.com/webstore/detail/stay-flo/egpmoffkahilephjdbpojnniapjhooka)
+- [vscode主题](https://vscodethemes.com/)
 
 ## 命名网站
 - [varbook](https://varbook.uiuing.com/)
 
-## 动画库
+## 壁纸
+- [wallhaven](https://wallhaven.cc/)
+- [壁纸网站](https://unsplash.com/)
+- [pixabay](https://pixabay.com/)

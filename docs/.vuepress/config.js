@@ -99,8 +99,6 @@ export default defineUserConfig({
             "/tool/happy",
             "/tool/resources",
             "/tool/zhengzhi",
-            "/tool/sentence",
-            "/tool/music",
           ],
         },
       ],
