@@ -1,18 +1,7 @@
 # 英文单词
-- `variable`: n:变量 adj:可变的,多变的
-- `various` adj:各种各样的
-- `environment variable` 环境变量
-- `Event Loop` 事件循环
 - `drag and drop` 拖放
 - `resume` 恢复
 - `collapse` v:折叠 n:崩溃
-- `valid` adj:有效的
-- `invalid` adj:无效的
-- `validate` v:验证
-- `invalidate` v:使无效
-- `prettier` adj:漂亮的
-- `gap` n:缺口 间隙 
-- `cell` n:单元格
 - `fatal` adj:致命的
 - `iterate` v:迭代
 - `observe` v:观察
@@ -26,3 +15,4 @@
 - `Do not use built-in or reserved HTML elements as component id: div `: 不要使用内置或保留的HTML元素作为组件id: div
 - `maintain`: 维护
 - `sustainable` : 可持续的
+- `interact`: 交互
