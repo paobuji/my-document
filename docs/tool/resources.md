@@ -16,24 +16,22 @@
 - [山月的面试题网站](https://q.shanyue.tech/)
 - [李立超](https://www.lilichao.com/)
 
-## 工具
+## 工具库
 - [node版本管理器](https://github.com/coreybutler/nvm-windows/releases)
 - [react版博客框架](https://docusaurus.io/zh-CN/)
 - [egg-mysql](https://github.com/eggjs/egg-mysql)
 - [pinia持久化库](https://prazdevs.github.io/pinia-plugin-persistedstate/zh/guide/config.html)
-- [animista](https://animista.net/)
+- [All elements made with CSS and HTML](https://uiverse.io/)
+- [页面引导库](https://driverjs.com/)
 
+## 动画库
+- [animxyz](https://animxyz.com/)
+- [animista](https://animista.net/)
 ## 博客
 - [antfu](https://antfu.me/)
 - [别人写的很好的博客](https://wiki.eryajf.net/)
 - [tailwind](https://www.tailwindcss.cn/)
 - [pengzhile](https://zhile.io/)
-
-## 有意思的网站
-- [All elements made with CSS and HTML](https://uiverse.io/)
-
-## 框架
-- [页面引导库](https://driverjs.com/)
 
 ## GPT
 - [ai](http://ai.sb/)
@@ -46,4 +44,3 @@
 - [varbook](https://varbook.uiuing.com/)
 
 ## 动画库
-- [animxyz](https://animxyz.com/)
