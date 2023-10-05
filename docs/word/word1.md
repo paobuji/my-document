@@ -25,3 +25,4 @@
 - `archive`: n:档案
 - `Do not use built-in or reserved HTML elements as component id: div `: 不要使用内置或保留的HTML元素作为组件id: div
 - `maintain`: 维护
+- `sustainable` : 可持续的
