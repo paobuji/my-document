@@ -21,7 +21,7 @@
 - [react版博客框架](https://docusaurus.io/zh-CN/)
 - [egg-mysql](https://github.com/eggjs/egg-mysql)
 - [pinia持久化库](https://prazdevs.github.io/pinia-plugin-persistedstate/zh/guide/config.html)
-
+- [animista](https://animista.net/)
 
 ## 博客
 - [antfu](https://antfu.me/)
@@ -31,7 +31,6 @@
 
 ## 有意思的网站
 - [All elements made with CSS and HTML](https://uiverse.io/)
-- [站点部署vercel](https://vercel.com/)
 
 ## 框架
 - [页面引导库](https://driverjs.com/)
