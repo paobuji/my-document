@@ -3,4 +3,4 @@
 
 <h1 style="text-align:center;">学习笔记</h1>
 
-<div style="margin:16px auto;text-align:center;">使用 vuepress2 搭建的学习笔记，祝自己天天开心。</div>
+<div style="margin:16px auto;text-align:center;">使用 vuepress2 搭建的学习笔记，天天开心。</div>
