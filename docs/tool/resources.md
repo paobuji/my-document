@@ -1,4 +1,3 @@
-# 资源网站
 ## 资源网站
 - [最流行的 1000 个库](https://npm.devtool.tech/)
 - [美丽搜索](https://meilisearch.com/docs)
@@ -9,6 +8,7 @@
 ## 面试题
 - [山月的面试题网站](https://q.shanyue.tech/)
 - [李立超](https://www.lilichao.com/)
+- [掘金大佬的博客](https://juejin.cn/post/7223742591371771964)
 
 ## 工具库
 - [node版本管理器](https://github.com/coreybutler/nvm-windows/releases)
