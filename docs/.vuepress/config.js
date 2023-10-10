@@ -60,10 +60,8 @@ export default defineUserConfig({
             "/front/scattered-notes",
             "/front/naming",
             "/front/promise",
-            "/front/eggjs",
             "/front/git",
-            "/front/css",
-            "/front/grid"
+            "/front/nestjs",
           ],
         },
       ],
