@@ -14,4 +14,5 @@
 - 男士面霜有什么好用的呢?
 - [eggjs打包](https://blog.csdn.net/weixin_44637104/article/details/128181127)
 - [nestjs](https://nestjs.bootcss.com/index.html)
+- 在vue3的setup函数中没有this的话封装公共函数会简单一点.
 - `看文档的能力很重要的`
