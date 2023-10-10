@@ -11,6 +11,7 @@
 - [simba](https://www.bilibili.com/video/BV1Sz4y1o7Ws/?p=4&spm_id_from=pageDriver&vd_source=fa248929cbbce67cc8afaf2d6b210f14)
 # 健身
 - 胯下击掌(500)
+- 蹲马步
 - 跳绳
 
 # 电视剧
