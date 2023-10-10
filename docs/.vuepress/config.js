@@ -81,7 +81,6 @@ export default defineUserConfig({
             "/snippet/echarts",
             "/snippet/handsomecode",
             "/snippet/scattered-snippet",
-            "/snippet/unknowncode",
           ],
         },
       ],
