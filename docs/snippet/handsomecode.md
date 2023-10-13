@@ -111,18 +111,18 @@ let arr = [
     children: [],
   },
 ];
-let name = findNameById(arr, 20);
+let name = findNameByIdInTree(arr, 20);
 console.log("name", name);
 
-function findNameById(data, id) {
+function findNameByIdInTree(data, id) {
   for (let item of data) {
     console.log(item.id);
     if (item.id === id) {
       return item.name;
     }
-    // 如果当前对象有子项children且不为空，则递归调用findNameById函数进行查找
+    // 如果当前对象有子项children且不为空，则递归调用findNameByIdInTree函数进行查找
     if (item.children && item.children.length > 0) {
-      const foundName = findNameById(item.children, id);
+      const foundName = findNameByIdInTree(item.children, id);
       if (foundName !== "no") {
         return foundName;
       }
