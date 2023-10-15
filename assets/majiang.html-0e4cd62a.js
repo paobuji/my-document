@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7037bf50","path":"/tool/majiang.html","title":"麻将","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"contributors":[{"name":"chp","email":"1768581208@qq.com","commits":1}]},"filePathRelative":"tool/majiang.md"}');export{t as data};

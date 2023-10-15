@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-967e27a0","path":"/tool/zhengzhi.html","title":"政治","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"contributors":[{"name":"CHP","email":"1768581208@qq.com","commits":1},{"name":"chp","email":"1768581208@qq.com","commits":1}]},"filePathRelative":"tool/zhengzhi.md"}');export{t as data};

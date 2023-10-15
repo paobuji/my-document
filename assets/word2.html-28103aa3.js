@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3627237d","path":"/word/word2.html","title":"英文单词","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"contributors":[{"name":"CHP","email":"1768581208@qq.com","commits":3}]},"filePathRelative":"word/word2.md"}');export{t as data};

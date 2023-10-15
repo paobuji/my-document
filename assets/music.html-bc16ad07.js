@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4d52f692","path":"/tool/music.html","title":"音乐","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"contributors":[{"name":"CHP","email":"1768581208@qq.com","commits":2}]},"filePathRelative":"tool/music.md"}');export{t as data};

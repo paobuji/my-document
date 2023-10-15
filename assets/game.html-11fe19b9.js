@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,b as e,d as o}from"./app-2278246b.js";const s={},n=e("h1",{id:"游戏",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#游戏","aria-hidden":"true"},"#"),o(" 游戏")],-1),r=e("ul",null,[e("li",null,"扁鹊 冷却鞋 冰心")],-1),_=[n,r];function l(d,i){return a(),c("div",null,_)}const u=t(s,[["render",l],["__file","game.html.vue"]]);export{u as default};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-671b3f19","path":"/front/nestjs.html","title":"nestjs","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"创建文件","slug":"创建文件","link":"#创建文件","children":[]}],"git":{"contributors":[{"name":"chp","email":"1768581208@qq.com","commits":1}]},"filePathRelative":"front/nestjs.md"}');export{t as data};

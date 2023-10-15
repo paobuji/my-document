@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-34724ade","path":"/word/word1.html","title":"英文单词","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"contributors":[{"name":"CHP","email":"1768581208@qq.com","commits":8},{"name":"chp","email":"1768581208@qq.com","commits":5}]},"filePathRelative":"word/word1.md"}');export{t as data};

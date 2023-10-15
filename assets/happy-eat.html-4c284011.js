@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-24967e8c","path":"/tool/happy-eat.html","title":"让人开心的食物","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"contributors":[{"name":"CHP","email":"1768581208@qq.com","commits":8},{"name":"chp","email":"1768581208@qq.com","commits":4}]},"filePathRelative":"tool/happy-eat.md"}');export{t as data};

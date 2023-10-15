@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-95025118","path":"/tool/dream.html","title":"梦想","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"contributors":[{"name":"chp","email":"1768581208@qq.com","commits":1}]},"filePathRelative":"tool/dream.md"}');export{t as data};

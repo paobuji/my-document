@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,b as e,d as o}from"./app-2278246b.js";const r={},s=e("h1",{id:"梦想",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#梦想","aria-hidden":"true"},"#"),o(" 梦想")],-1),n=e("ul",null,[e("li",null,"有一个自己的房子可以做饭包饺子")],-1),_=[s,n];function d(l,i){return a(),c("div",null,_)}const u=t(r,[["render",d],["__file","dream.html.vue"]]);export{u as default};

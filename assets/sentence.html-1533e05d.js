@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-111f8a50","path":"/tool/sentence.html","title":"优秀的句子","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"contributors":[{"name":"CHP","email":"1768581208@qq.com","commits":4},{"name":"chp","email":"1768581208@qq.com","commits":1}]},"filePathRelative":"tool/sentence.md"}');export{t as data};

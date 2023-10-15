@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5dd7b515","path":"/front/css.html","title":"css代码","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"box-shadow","slug":"box-shadow","link":"#box-shadow","children":[]}],"git":{"contributors":[{"name":"CHP","email":"1768581208@qq.com","commits":1}]},"filePathRelative":"front/css.md"}');export{t as data};

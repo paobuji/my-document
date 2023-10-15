@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-52c95d32","path":"/tool/lifetime.html","title":"长久的事情","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"contributors":[{"name":"chp","email":"1768581208@qq.com","commits":3}]},"filePathRelative":"tool/lifetime.md"}');export{t as data};
