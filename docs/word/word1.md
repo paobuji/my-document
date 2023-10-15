@@ -20,3 +20,7 @@
 - `reliable`: 可靠的
 - `scalable`: 可扩展的
 - `underlying`: 底层的
+- `expect`: 期待
+- `except`: 除了 之外
+- `exception`: 异常
+- `Typically`: 通常
