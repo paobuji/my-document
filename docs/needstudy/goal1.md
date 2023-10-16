@@ -11,6 +11,6 @@
 - ~~怎么给tailwind的单位默认设置成px;~~
 - ~~怎么使用JavaScript让一些小盒子从左至右匀速滚动,并且首尾相连没有空白~~
 - ~~解决一下my-document的favicon图标加载不上的问题~~
-- 男士面霜有什么好用的呢?
 - [nestjs](https://nestjs.bootcss.com/index.html)
+- 学习数据结构
 - `看文档的能力很重要的`
