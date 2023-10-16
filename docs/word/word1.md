@@ -26,3 +26,4 @@
 - `interact`: 交互
 - `integrate`: 集成
 - `pattern` : 模式
+- `alternative`: 可供替代的
