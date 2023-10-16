@@ -27,3 +27,6 @@
 - `integrate`: 集成
 - `pattern` : 模式
 - `alternative`: 可供替代的
+- `perform`: 执行
+- `performant`: 高效的
+- `performance`: 性能
