@@ -16,7 +16,6 @@
 - `Do not use built-in or reserved HTML elements as component id: div `: 不要使用内置或保留的HTML元素作为组件id: div
 - `maintain`: 维护
 - `sustainable` : 可持续的
-- `interact`: 交互
 - `reliable`: 可靠的
 - `scalable`: 可扩展的
 - `underlying`: 底层的
@@ -24,3 +23,6 @@
 - `except`: 除了 之外
 - `exception`: 异常
 - `Typically`: 通常
+- `interact`: 交互
+- `integrate`: 集成
+- `pattern` : 模式
